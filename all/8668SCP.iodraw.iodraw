@@ -645,7 +645,10 @@
         <mxCell id="Ckkr9uYQJFwJUf99igPs-168" value="BH20 GPIO_10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2610" y="1599" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ckkr9uYQJFwJUf99igPs-169" value="MAX96712" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-199" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ckkr9uYQJFwJUf99igPs-169" target="Ckkr9uYQJFwJUf99igPs-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-169" value="MAX96724" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2050" y="640" width="180" height="129" as="geometry" />
         </mxCell>
         <mxCell id="Ckkr9uYQJFwJUf99igPs-170" value="CSI-A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
