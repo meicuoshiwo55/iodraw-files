@@ -97,9 +97,6 @@
         <mxCell id="Ckkr9uYQJFwJUf99igPs-27" value="DSI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1671" y="739" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ckkr9uYQJFwJUf99igPs-28" value="CSI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1950" y="739" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Ckkr9uYQJFwJUf99igPs-29" value="25MHZ晶振" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1479" y="559" width="80" height="30" as="geometry" />
         </mxCell>
@@ -283,9 +280,9 @@
             <mxPoint x="2130" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ckkr9uYQJFwJUf99igPs-77" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ckkr9uYQJFwJUf99igPs-28">
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-77" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1980" y="770" as="sourcePoint" />
+            <mxPoint x="1980" y="769" as="sourcePoint" />
             <mxPoint x="1980" y="838" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -630,8 +627,10 @@
         <mxCell id="Ckkr9uYQJFwJUf99igPs-168" value="BH20 GPIO_10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2610" y="1599" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ckkr9uYQJFwJUf99igPs-199" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ckkr9uYQJFwJUf99igPs-169" target="Ckkr9uYQJFwJUf99igPs-28">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-199" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ckkr9uYQJFwJUf99igPs-169">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2010" y="754" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ckkr9uYQJFwJUf99igPs-169" value="MAX96724" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2050" y="640" width="180" height="129" as="geometry" />
