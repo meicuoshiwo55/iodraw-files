@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="2mQflZe06l-2W7u4bvnP">
-    <mxGraphModel dx="1918" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1358" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -570,7 +570,7 @@
         <mxCell id="TDUJJVnQSYpgpILj8TPA-168" value="BH20 GPIO_10" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2610" y="1599" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TDUJJVnQSYpgpILj8TPA-169" value="MAX96712" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TDUJJVnQSYpgpILj8TPA-169" value="MAX96712&amp;nbsp;&lt;span style=&quot;font-family: MonospacedNumber, LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Tahoma, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; white-space: pre; font-size: 13px; background-color: initial;&quot;&gt;U1101&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1960" y="640" width="480" height="129" as="geometry" />
         </mxCell>
         <mxCell id="TDUJJVnQSYpgpILj8TPA-170" value="CSI-A" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
