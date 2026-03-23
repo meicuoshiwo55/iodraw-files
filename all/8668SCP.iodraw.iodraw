@@ -513,7 +513,7 @@
         <mxCell id="Ckkr9uYQJFwJUf99igPs-219" value="IIC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2850" y="739" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ckkr9uYQJFwJUf99igPs-220" value="RST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-220" value="PDN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2980" y="739" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ckkr9uYQJFwJUf99igPs-222" value="CSI-A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -633,16 +633,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3160" y="1070" as="sourcePoint" />
             <mxPoint x="3210" y="1020" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ckkr9uYQJFwJUf99igPs-255" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3160" y="480" />
-              <mxPoint x="2468" y="480" />
-            </Array>
-            <mxPoint x="3160" y="960" as="sourcePoint" />
-            <mxPoint x="2468" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ckkr9uYQJFwJUf99igPs-256" value="CSI1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
