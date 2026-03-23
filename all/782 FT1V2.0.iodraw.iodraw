@@ -85,7 +85,7 @@
         <mxCell id="TDUJJVnQSYpgpILj8TPA-23" value="H: CSI-B=&amp;gt;CSI&lt;div&gt;L: CSI-A=&amp;gt;CSI&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1800" y="1644" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TDUJJVnQSYpgpILj8TPA-24" value="&lt;table style=&quot;border-collapse: collapse;&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;105&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;144&quot;&gt;&lt;td style=&quot;text-wrap-mode: nowrap; border: 0.5pt solid rgb(222, 224, 227); font-size: 10pt; vertical-align: middle; word-break: normal; overflow-wrap: normal;&quot;&gt;MAX96724&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TDUJJVnQSYpgpILj8TPA-24" value="&lt;table style=&quot;border-collapse: collapse;&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;105&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;144&quot;&gt;&lt;td style=&quot;text-wrap-mode: nowrap; border: 0.5pt solid rgb(222, 224, 227); font-size: 10pt; vertical-align: middle; word-break: normal; overflow-wrap: normal;&quot;&gt;MAX96724 U1000&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1448" y="640" width="562" height="129" as="geometry" />
         </mxCell>
         <mxCell id="TDUJJVnQSYpgpILj8TPA-25" value="IIC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
