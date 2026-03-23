@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="BMAwjIMzUJk3hsAjVfPP">
-    <mxGraphModel dx="2825" dy="1318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1614" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -434,6 +434,246 @@
             <mxPoint x="2370" y="640" as="sourcePoint" />
             <mxPoint x="2420" y="590" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-200" value="&lt;table style=&quot;border-collapse: collapse;&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;105&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;144&quot;&gt;&lt;td style=&quot;text-wrap-mode: nowrap; border: 0.5pt solid rgb(222, 224, 227); font-size: 10pt; vertical-align: middle; word-break: normal; overflow-wrap: normal;&quot;&gt;MAX96724 U1000&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1448" y="640" width="462" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-201" value="IIC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1489" y="739" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-202" value="PDN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="739" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-203" value="CSI-A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="739" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-204" value="CSI-B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="739" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-205" value="25MHZ晶振" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1479" y="559" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-206" value="XTAL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1479" y="640" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-207" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ckkr9uYQJFwJUf99igPs-205" target="Ckkr9uYQJFwJUf99igPs-206">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1510" y="549" as="sourcePoint" />
+            <mxPoint x="1560" y="499" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-208" value="VDD/VCC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="640" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-209" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="1070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-210" value="GPIO35" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="1070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-211" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1469" y="1070" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-212" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ckkr9uYQJFwJUf99igPs-201">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1520" y="1070" as="sourcePoint" />
+            <mxPoint x="1570" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-213" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1670.29" y="1070" as="sourcePoint" />
+            <mxPoint x="1669.29" y="769" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-214" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1790.2900000000004" y="769" as="sourcePoint" />
+            <mxPoint x="1789.29" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-215" value="CSI3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2540" y="1070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-216" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Ckkr9uYQJFwJUf99igPs-240" target="Ckkr9uYQJFwJUf99igPs-209">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2040" y="918" as="sourcePoint" />
+            <mxPoint x="2090" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-217" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2569.29" y="918" as="sourcePoint" />
+            <mxPoint x="2569.29" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-218" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;white-space: pre;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;span style=&quot;font-family: MonospacedNumber, LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Tahoma, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;MAX96722 &lt;/span&gt;&lt;span style=&quot;font-family: MonospacedNumber, LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Tahoma, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; background-color: initial;&quot;&gt;U1200&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2539" y="640" width="592" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-219" value="IIC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2850" y="739" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-220" value="RST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2980" y="739" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-221" value="DSI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="739" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-222" value="CSI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="739" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-223" value="25MHZ晶振" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="559" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-224" value="XTAL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="640" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-225" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ckkr9uYQJFwJUf99igPs-223" target="Ckkr9uYQJFwJUf99igPs-224">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2601" y="589" as="sourcePoint" />
+            <mxPoint x="2651" y="539" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-226" value="VDD/VCC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="640" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-227" value="DSI1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="1070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-228" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2740" y="1070" as="sourcePoint" />
+            <mxPoint x="2740" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-229" value="GPIO36" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2980" y="1070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-230" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ckkr9uYQJFwJUf99igPs-229" target="Ckkr9uYQJFwJUf99igPs-220">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3020" y="1070" as="sourcePoint" />
+            <mxPoint x="3070" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-231" value="I2C0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="2850" y="1070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-232" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ckkr9uYQJFwJUf99igPs-219">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2880" y="1070" as="sourcePoint" />
+            <mxPoint x="2930" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-233" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;white-space: pre;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;span style=&quot;font-family: MonospacedNumber, LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Tahoma, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;I2C10_SDA&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1473" y="959" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-234" value="&lt;span style=&quot;font-family: MonospacedNumber, LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Tahoma, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; white-space: pre; font-size: 13px; background-color: initial;&quot;&gt;BH20&lt;/span&gt;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-family: MonospacedNumber, LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Tahoma, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; white-space: pre; font-size: 13px; background-color: initial;&quot;&gt;GPIO_10&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1632" y="960" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-235" value="AD31 I2C0_SCL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="2840" y="960" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-236" value="AE24 GPIO_1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="2968" y="960" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-237" value="CSI0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="960" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-238" value="CSI3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2540" y="960" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-239" value="MAX96712&amp;nbsp;&lt;span style=&quot;font-family: MonospacedNumber, LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Tahoma, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; white-space: pre; font-size: 13px; background-color: initial;&quot;&gt;U1101&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="640" width="480" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-240" value="CSI-A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="739" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-241" value="CSI-B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2355" y="739" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-242" value="RST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="739" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-243" value="IIC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="739" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-244" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;white-space: pre;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;span style=&quot;font-family: MonospacedNumber, LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Tahoma, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;GPIO_8 DF14&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2230" y="960" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-245" value="&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;p&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;GPIO8_&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;MT6373&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot; data-info=&quot;***---*(whiteboard)eyJ0eXBlIjoibm9kZXMiLCJkYXRhIjp7ImRhdGEiOlt7ImNoaWxkcmVuIjpbXSwiaWQiOiJvNDo1IiwidHlwZSI6MywidG9JZCI6IiIsImluZm8iOnsidGl0bGUiOiJTaGFwZSB3aXRoIHRleHQgMTI2IiwibG9ja2VkIjpmYWxzZSwiYmFzZVYyIjp7IngiOjc2OS44ODQwMzMyMDMxMjUsInkiOjcxMS44NjE4MTY0MDYyNSwiYW5nbGUiOjAsIndpZHRoIjo4MzUuMTE1OTY2Nzk2ODc1LCJoZWlnaHQiOjczMi4xMzM3ODkwNjI1LCJpc1VuaWZvcm0iOmZhbHNlLCJoRmxpcCI6ZmFsc2UsInZGbGlwIjpmYWxzZSwic2tld1giOjB9LCJsYXllclYyIjp7ImFjdGl2ZSI6dHJ1ZSwib3BhY2l0eSI6MTAwLCJibGVuZE1vZGUiOjB9LCJmaWxsVjIiOnsiZmlsbFN0eWxlTGlzdCI6eyJkYXRhIjpbeyJmaWxsVHlwZSI6MCwiYWN0aXZlIjp0cnVlLCJvcGFjaXR5IjoxMDAsImNvbG9yIjo1MzM5MzM0LCJ1dWlkIjowfV19fSwiYm9yZGVyVjIiOnsiYm9yZGVyU3R5bGVJdGVtIjp7ImFkdmFuY2VTZXR0aW5ncyI6eyJzdGFydCI6MCwiZW5kIjowLCJqb2luIjowLCJlbmRzIjowLCJtaXRlckFuZ2xlIjowLCJkYXNoZXMiOnsiZGF0YSI6W119fSwibGluZVdpZHRoIjoyLCJwb3NpdGlvbiI6Mn0sImNvbG9yRmlsbFN0eWxlTGlzdCI6eyJkYXRhIjpbeyJmaWxsVHlwZSI6MCwiYWN0aXZlIjp0cnVlLCJvcGFjaXR5IjoxMDAsImNvbG9yIjo1Mzk5NDYxLCJ1dWlkIjowfV19fSwidGV4dFYyIjp7InRleHQiOiJHUElPOF9NVDYzNzMiLCJmb250RmFtaWx5IjoiTm90byBTYW5zIFNDIiwiZm9udFNpemUiOjEyLCJmb250V2VpZ2h0IjoiUmVndWxhciIsInNpemVNb2RlIjowLCJob3Jpem9udGFsQWxpZ24iOjEsInZlcnRpY2FsQWxpZ24iOjEsImxpbmVIZWlnaHQiOnsidHlwZSI6MCwidmFsdWUiOjB9LCJsZXR0ZXJTcGFjaW5nIjp7InR5cGUiOjEsInZhbHVlIjowfSwicGFyYWdyYXBoU3BhY2luZyI6MCwidGV4dENhc2UiOjAsIm92ZXJyaWRlSW5mbyI6eyJjaGFyYWN0ZXJTdHlsZU92ZXJyaWRlcyI6eyJkYXRhIjpbMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMF19LCJzdHlsZU92ZXJyaWRlVGFibGUiOnsiZGF0YSI6e319fSwiZmlsbCI6eyJmaWxsU3R5bGVMaXN0Ijp7ImRhdGEiOlt7ImZpbGxUeXBlIjowLCJhY3RpdmUiOnRydWUsIm9wYWNpdHkiOjEwMCwiY29sb3IiOjE2Nzc3MjE1LCJ1dWlkIjowfV19fSwibGluZVRocm91Z2giOmZhbHNlLCJoaWdobGlnaHRDb2xvciI6eyJmaWxsU3R5bGVMaXN0Ijp7ImRhdGEiOltdfX0sInBhcmFncmFwaFN0eWxlcyI6eyJkYXRhIjpbeyJpbmRlbnQiOjAsImxpc3RUeXBlIjowLCJsaXN0QmVnaW5JbmRleCI6MCwicXVvdGUiOmZhbHNlfV19LCJwYWRkaW5nIjowLCJpdGFsaWMiOmZhbHNlLCJ1bmRlcmxpbmUiOmZhbHNlfSwiY29tcG9zaXRlU2hhcGUiOnsiY29udHJvbFBvaW50cyI6W10sInNoYXBlVHlwZSI6MTF9LCJ0aGVtZSI6eyJ0aGVtZSI6LTEsImZpbGxDb2xvckNvZGUiOjEwLCJ0ZXh0Q29sb3JDb2RlIjotMSwidGV4dEJhY2tncm91bmRDb2xvckNvZGUiOi0xLCJib3JkZXJTdHlsZUNvZGUiOi0xLCJib3JkZXJXaWR0aENvZGUiOi0xLCJib3JkZXJDb2xvckNvZGUiOjcsImNvbm5lY3RUeXBlQ29kZSI6LTEsImNvbm5lY3RTdHlsZUNvZGUiOi0xLCJjb25uZWN0V2lkdGhDb2RlIjotMSwiY29ubmVjdENvbG9yIjotMSwiaWNvbkJvcmRlckNvbG9yIjotMSwiaWNvbkZpbGxDb2xvciI6LTEsImZpbGxDb2RlVHlwZSI6MCwiYm9yZGVyQ29sb3JDb2RlVHlwZSI6MCwiZmlsbENvZGVWZXJzaW9uIjotMSwiYm9yZGVyQ29sb3JDb2RlVmVyc2lvbiI6LTEsInRleHRDb2xvckNvZGVUeXBlIjowLCJ0ZXh0QmdDb2xvckNvZGVUeXBlIjowLCJib3JkZXJIaWdoUHJlY2lzaW9uV2lkdGgiOi0xfSwiZmxpcCI6e30sIm9wYWNpdHkiOnt9fSwiZ2xvYmFsUG9zIjp7IngiOjc2OS44ODQwMzMyMDMxMjUsInkiOjcxMS44NjE4MTY0MDYyNX0sInBhc3RlVHlwZSI6MH1dLCJkb2NJZCI6IiIsInBhZ2VJZCI6IkdMcUx3SWZOR2h2eVNqYlpjUnljcWlPZG51ZSIsInNpemUiOjEsImJvdW5kcyI6eyJ4Ijo3NjkuODg0MDMzMjAzMTI1LCJ5Ijo3MTEuODYxODE2NDA2MjUsIndpZHRoIjo4MzUuMTE1OTY2Nzk2ODc1LCJoZWlnaHQiOjczMi4xMzM3ODkwNjI1fSwiaXNDdXQiOmZhbHNlLCJodG1sU3RyaW5nIjoiPGRpdiBzdHlsZT1cImZvbnQtc2l6ZToxMnB4O2ZvbnQtd2VpZ2h0Om5vcm1hbDtjb2xvcjpyZ2JhKDI1NSwyNTUsMjU1LDEuMDAwMDAwKTtcIj48cD5HUElPOF9NVDYzNzM8L3A+PC9kaXY+IiwidGhlbWUiOjV9fQ==*---***(whiteboard)&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2239" y="1070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-246" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=none;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="Ckkr9uYQJFwJUf99igPs-245" target="Ckkr9uYQJFwJUf99igPs-244">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="2250" y="1060" as="sourcePoint" />
+            <mxPoint x="2390" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-247" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ckkr9uYQJFwJUf99igPs-244" target="Ckkr9uYQJFwJUf99igPs-242">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="2230" y="660" as="sourcePoint" />
+            <mxPoint x="2260" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-248" value="I2C2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="2115" y="1070" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-249" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;white-space: pre;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;span style=&quot;font-family: MonospacedNumber, LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Tahoma, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;I2C2_SDA&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="2115" y="960" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-250" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ckkr9uYQJFwJUf99igPs-248" target="Ckkr9uYQJFwJUf99igPs-249">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2230" y="770" as="sourcePoint" />
+            <mxPoint x="2280" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-251" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ckkr9uYQJFwJUf99igPs-249">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2150" y="960" as="sourcePoint" />
+            <mxPoint x="2160" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-252" value="BG15" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3131" y="960" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-253" value="GPIO15" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3131" y="1070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-254" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ckkr9uYQJFwJUf99igPs-252">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3160" y="1070" as="sourcePoint" />
+            <mxPoint x="3210" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-255" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3160" y="480" />
+              <mxPoint x="2468" y="480" />
+            </Array>
+            <mxPoint x="3160" y="960" as="sourcePoint" />
+            <mxPoint x="2468" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-256" value="CSI1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="960" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-257" value="CSI2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="1070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-258" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="Ckkr9uYQJFwJUf99igPs-260">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2389" y="769" as="sourcePoint" />
+            <mxPoint x="2439" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-259" value="CSI2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2359" y="960" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-260" value="CSI3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2359" y="1070" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
