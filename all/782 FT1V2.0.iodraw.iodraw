@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="2mQflZe06l-2W7u4bvnP">
-    <mxGraphModel dx="1918" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1630" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -575,13 +575,6 @@
         </mxCell>
         <mxCell id="TDUJJVnQSYpgpILj8TPA-170" value="CSI-A" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2010" y="739" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TDUJJVnQSYpgpILj8TPA-171" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=8;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="TDUJJVnQSYpgpILj8TPA-170" edge="1">
-          <mxGeometry width="140" relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="2200" y="770" as="sourcePoint" />
-            <mxPoint x="2040" y="838" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="TDUJJVnQSYpgpILj8TPA-172" value="CSI-B" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2353" y="739" width="60" height="30" as="geometry" />
