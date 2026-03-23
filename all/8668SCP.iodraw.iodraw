@@ -88,7 +88,7 @@
         <mxCell id="Ckkr9uYQJFwJUf99igPs-40" value="GPIO10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2700" y="1510" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ckkr9uYQJFwJUf99igPs-41" value="CSI5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-41" value="CSI1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2822" y="1510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ckkr9uYQJFwJUf99igPs-42" value="MCU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -197,9 +197,6 @@
         <mxCell id="Ckkr9uYQJFwJUf99igPs-102" value="IIC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2968" y="1820" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ckkr9uYQJFwJUf99igPs-103" value="HPD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3260" y="1820" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Ckkr9uYQJFwJUf99igPs-104" value="RST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3058" y="1820" width="60" height="30" as="geometry" />
         </mxCell>
@@ -256,13 +253,10 @@
             <mxPoint x="3140" y="1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ckkr9uYQJFwJUf99igPs-118" value="GPIO8" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3260" y="1510" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ckkr9uYQJFwJUf99igPs-119" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ckkr9uYQJFwJUf99igPs-118">
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-119" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3290" y="1820" as="sourcePoint" />
-            <mxPoint x="3340" y="1770" as="targetPoint" />
+            <mxPoint x="3290" y="1540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ckkr9uYQJFwJUf99igPs-120" value="CF23 GPIO_17" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
