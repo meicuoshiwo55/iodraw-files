@@ -262,14 +262,8 @@
         <mxCell id="TDUJJVnQSYpgpILj8TPA-72" value="CSI-B" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2580" y="838" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TDUJJVnQSYpgpILj8TPA-73" value="CSI-A" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2438" y="838" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="TDUJJVnQSYpgpILj8TPA-74" value="CSI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2540" y="888" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TDUJJVnQSYpgpILj8TPA-75" value="CSI-SEL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2430" y="888" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TDUJJVnQSYpgpILj8TPA-76" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="TDUJJVnQSYpgpILj8TPA-33" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -683,27 +677,6 @@
             <mxPoint x="2080" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TDUJJVnQSYpgpILj8TPA-184" value="MAX96712" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2338" y="640" width="160" height="129" as="geometry" />
-        </mxCell>
-        <mxCell id="TDUJJVnQSYpgpILj8TPA-185" value="CSI-B" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2338" y="640" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TDUJJVnQSYpgpILj8TPA-186" value="RST" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2438" y="640" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TDUJJVnQSYpgpILj8TPA-187" value="CSI-A" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2438" y="739" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TDUJJVnQSYpgpILj8TPA-188" value="IIC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2338" y="739" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TDUJJVnQSYpgpILj8TPA-189" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TDUJJVnQSYpgpILj8TPA-187" target="TDUJJVnQSYpgpILj8TPA-73" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2500" y="820" as="sourcePoint" />
-            <mxPoint x="2550" y="770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TDUJJVnQSYpgpILj8TPA-190" value="I2C4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="2343" y="960" width="50" height="30" as="geometry" />
         </mxCell>
@@ -714,12 +687,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2370" y="1070" as="sourcePoint" />
             <mxPoint x="2370" y="990" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TDUJJVnQSYpgpILj8TPA-193" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="TDUJJVnQSYpgpILj8TPA-190" target="TDUJJVnQSYpgpILj8TPA-188" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2340" y="770" as="sourcePoint" />
-            <mxPoint x="2390" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TDUJJVnQSYpgpILj8TPA-194" value="BG15" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -734,14 +701,14 @@
             <mxPoint x="3210" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TDUJJVnQSYpgpILj8TPA-197" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="TDUJJVnQSYpgpILj8TPA-186" edge="1">
+        <mxCell id="TDUJJVnQSYpgpILj8TPA-197" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3160" y="480" />
               <mxPoint x="2468" y="480" />
             </Array>
             <mxPoint x="3160" y="960" as="sourcePoint" />
-            <mxPoint x="3210" y="910" as="targetPoint" />
+            <mxPoint x="2468" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TDUJJVnQSYpgpILj8TPA-198" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="TDUJJVnQSYpgpILj8TPA-123" edge="1">
