@@ -501,7 +501,7 @@
             <mxPoint x="2090" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ckkr9uYQJFwJUf99igPs-217" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-217" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ckkr9uYQJFwJUf99igPs-222">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2609.29" y="918" as="sourcePoint" />
             <mxPoint x="2609.29" y="1070" as="targetPoint" />
@@ -519,7 +519,7 @@
         <mxCell id="Ckkr9uYQJFwJUf99igPs-221" value="DSI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2710" y="739" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ckkr9uYQJFwJUf99igPs-222" value="CSI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-222" value="CSI-A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2580" y="739" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ckkr9uYQJFwJUf99igPs-223" value="25MHZ晶振" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
