@@ -92,7 +92,7 @@
           <mxGeometry x="1489" y="739" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TDUJJVnQSYpgpILj8TPA-26" value="RST" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1573" y="739" width="60" height="30" as="geometry" />
+          <mxGeometry x="1640" y="739" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TDUJJVnQSYpgpILj8TPA-27" value="CSI-A" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1760" y="739" width="60" height="30" as="geometry" />
@@ -119,7 +119,7 @@
           <mxGeometry x="2050" y="1070" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TDUJJVnQSYpgpILj8TPA-35" value="GPIO35" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1573" y="1070" width="60" height="30" as="geometry" />
+          <mxGeometry x="1640" y="1070" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TDUJJVnQSYpgpILj8TPA-36" value="I2C3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1469" y="1070" width="90" height="30" as="geometry" />
@@ -547,7 +547,7 @@
           <mxGeometry x="1479" y="960" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TDUJJVnQSYpgpILj8TPA-150" value="AE23&amp;nbsp; GPIO_0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1573" y="960" width="90" height="30" as="geometry" />
+          <mxGeometry x="1640" y="960" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TDUJJVnQSYpgpILj8TPA-151" value="AD31 I2C0_SCL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="2840" y="960" width="90" height="30" as="geometry" />
