@@ -289,9 +289,6 @@
             <mxPoint x="1980" y="838" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TDUJJVnQSYpgpILj8TPA-78" value="GPIO89" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1940" y="1070" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="TDUJJVnQSYpgpILj8TPA-79" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2569.29" y="918" as="sourcePoint" />
@@ -300,12 +297,6 @@
         </mxCell>
         <mxCell id="TDUJJVnQSYpgpILj8TPA-80" value="GPIO59" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2430" y="1070" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TDUJJVnQSYpgpILj8TPA-81" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1970" y="1070" as="sourcePoint" />
-            <mxPoint x="1970" y="918" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="TDUJJVnQSYpgpILj8TPA-82" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -602,9 +593,6 @@
             <mxPoint x="2642" y="1539" as="sourcePoint" />
             <mxPoint x="2642" y="1750" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="TDUJJVnQSYpgpILj8TPA-161" value="CH8 GPIO_69" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1940" y="960" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TDUJJVnQSYpgpILj8TPA-162" value="CSI1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2050" y="960" width="60" height="30" as="geometry" />
