@@ -579,7 +579,7 @@
         <mxCell id="Ckkr9uYQJFwJUf99igPs-241" value="CSI-B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2355" y="739" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ckkr9uYQJFwJUf99igPs-242" value="RST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ckkr9uYQJFwJUf99igPs-242" value="PDN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2240" y="739" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ckkr9uYQJFwJUf99igPs-243" value="IIC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
