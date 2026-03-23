@@ -577,7 +577,7 @@
           <mxGeometry x="2010" y="739" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TDUJJVnQSYpgpILj8TPA-172" value="CSI-B" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2353" y="739" width="60" height="30" as="geometry" />
+          <mxGeometry x="2355" y="739" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TDUJJVnQSYpgpILj8TPA-173" value="RST" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2240" y="739" width="60" height="30" as="geometry" />
