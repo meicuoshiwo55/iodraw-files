@@ -118,7 +118,7 @@
         <mxCell id="XZopUD660rW032nfuPKO-7" value="Midware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="440" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XZopUD660rW032nfuPKO-71" value="Switch control" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XZopUD660rW032nfuPKO-71" value="Camera API V2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="430" width="79.5" height="30" as="geometry" />
         </mxCell>
       </root>
