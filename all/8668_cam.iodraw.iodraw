@@ -67,7 +67,7 @@
         <mxCell id="XZopUD660rW032nfuPKO-21" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="40" y="780" width="960" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XZopUD660rW032nfuPKO-22" value="APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-21">
+        <mxCell id="XZopUD660rW032nfuPKO-22" value="Hypervisor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-21">
           <mxGeometry y="20" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XZopUD660rW032nfuPKO-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-21">
