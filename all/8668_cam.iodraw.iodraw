@@ -59,7 +59,7 @@
           <mxGeometry x="767" y="45" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XZopUD660rW032nfuPKO-16" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="39" y="589" width="960" height="180" as="geometry" />
+          <mxGeometry x="39" y="589" width="960" height="221" as="geometry" />
         </mxCell>
         <mxCell id="XZopUD660rW032nfuPKO-17" value="Kernal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-16">
           <mxGeometry y="20" width="80" height="40" as="geometry" />
@@ -86,6 +86,36 @@
           <mxGeometry x="131" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XZopUD660rW032nfuPKO-58" value="Switch control" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-16">
+          <mxGeometry x="240.75" width="79.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XZopUD660rW032nfuPKO-59" value="" style="group" vertex="1" connectable="0" parent="XZopUD660rW032nfuPKO-16">
+          <mxGeometry y="41" width="960" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="XZopUD660rW032nfuPKO-60" value="Kernal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-59">
+          <mxGeometry y="20" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZopUD660rW032nfuPKO-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-59">
+          <mxGeometry x="120" y="-20" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="XZopUD660rW032nfuPKO-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-59">
+          <mxGeometry x="480" y="-20" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="XZopUD660rW032nfuPKO-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-59">
+          <mxGeometry x="760" y="-20" width="200" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="XZopUD660rW032nfuPKO-64" value="Sensor device" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-59">
+          <mxGeometry x="131" y="131" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XZopUD660rW032nfuPKO-65" value="imgsensor driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-59">
+          <mxGeometry x="131" y="91" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XZopUD660rW032nfuPKO-66" value="camsys driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-59">
+          <mxGeometry x="130.5" y="41" width="79.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XZopUD660rW032nfuPKO-67" value="imgsys driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-59">
+          <mxGeometry x="131" width="79.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XZopUD660rW032nfuPKO-68" value="Switch control" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-59">
           <mxGeometry x="240.75" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XZopUD660rW032nfuPKO-21" value="" style="group" vertex="1" connectable="0" parent="1">
