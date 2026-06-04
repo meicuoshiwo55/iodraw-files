@@ -94,7 +94,7 @@
         <mxCell id="XZopUD660rW032nfuPKO-32" value="Hardware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-31">
           <mxGeometry y="20" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XZopUD660rW032nfuPKO-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-31">
+        <mxCell id="XZopUD660rW032nfuPKO-33" value="MT8668 Hardware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-31">
           <mxGeometry x="120" y="20" width="840" height="40" as="geometry" />
         </mxCell>
       </root>
