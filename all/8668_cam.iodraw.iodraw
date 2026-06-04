@@ -83,7 +83,7 @@
           <mxGeometry x="130.5" y="41" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XZopUD660rW032nfuPKO-48" value="imgsys driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-16">
-          <mxGeometry x="221" y="41" width="79.5" height="30" as="geometry" />
+          <mxGeometry x="131" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XZopUD660rW032nfuPKO-21" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="40" y="820" width="960" height="80" as="geometry" />
