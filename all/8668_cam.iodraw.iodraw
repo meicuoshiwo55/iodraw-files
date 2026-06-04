@@ -7,11 +7,14 @@
         <mxCell id="XZopUD660rW032nfuPKO-1" value="APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XZopUD660rW032nfuPKO-2" value="APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XZopUD660rW032nfuPKO-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="100" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XZopUD660rW032nfuPKO-3" value="APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="100" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XZopUD660rW032nfuPKO-4" value="APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="100" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
