@@ -34,10 +34,10 @@
         <mxCell id="XZopUD660rW032nfuPKO-48" value="imgsys driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-16">
           <mxGeometry x="131" width="79.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XZopUD660rW032nfuPKO-58" value="Switch control" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-16">
+        <mxCell id="XZopUD660rW032nfuPKO-58" value="Switch control" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="XZopUD660rW032nfuPKO-16">
           <mxGeometry x="241" y="18" width="79.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XZopUD660rW032nfuPKO-69" value="Sensor driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-16">
+        <mxCell id="XZopUD660rW032nfuPKO-69" value="Sensor driver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="XZopUD660rW032nfuPKO-16">
           <mxGeometry x="331" y="18" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XZopUD660rW032nfuPKO-5" value="" style="group" vertex="1" connectable="0" parent="1">
