@@ -61,10 +61,10 @@
         <mxCell id="XZopUD660rW032nfuPKO-12" value="LK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-11">
           <mxGeometry y="40" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XZopUD660rW032nfuPKO-13" value="SOS Yocto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-11">
+        <mxCell id="XZopUD660rW032nfuPKO-13" value="SOS Yocto" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="XZopUD660rW032nfuPKO-11">
           <mxGeometry x="120" y="40" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XZopUD660rW032nfuPKO-14" value="UOS Android&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-11">
+        <mxCell id="XZopUD660rW032nfuPKO-14" value="UOS Android&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="XZopUD660rW032nfuPKO-11">
           <mxGeometry x="480" y="40" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XZopUD660rW032nfuPKO-15" value="UOS TBox" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-11">
