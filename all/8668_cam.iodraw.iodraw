@@ -106,7 +106,7 @@
         <mxCell id="XZopUD660rW032nfuPKO-33" value="MT8668 Hardware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-31">
           <mxGeometry x="120" y="20" width="840" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XZopUD660rW032nfuPKO-8" value="YO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XZopUD660rW032nfuPKO-8" value="Yocto Midware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="400" width="320" height="160" as="geometry" />
         </mxCell>
         <mxCell id="XZopUD660rW032nfuPKO-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
