@@ -76,6 +76,9 @@
         <mxCell id="XZopUD660rW032nfuPKO-37" value="Sensor driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-16">
           <mxGeometry x="131" y="131" width="299" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XZopUD660rW032nfuPKO-38" value="imgsensor driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-16">
+          <mxGeometry x="131" y="91" width="299" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="XZopUD660rW032nfuPKO-21" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="40" y="820" width="960" height="80" as="geometry" />
         </mxCell>
