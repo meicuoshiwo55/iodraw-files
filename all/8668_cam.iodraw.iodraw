@@ -10,7 +10,7 @@
         <mxCell id="XZopUD660rW032nfuPKO-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-16">
           <mxGeometry x="120" y="-10" width="320" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="XZopUD660rW032nfuPKO-70" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-16">
+        <mxCell id="XZopUD660rW032nfuPKO-70" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="XZopUD660rW032nfuPKO-16">
           <mxGeometry x="231" y="-4" width="189" height="74" as="geometry" />
         </mxCell>
         <mxCell id="XZopUD660rW032nfuPKO-17" value="Kernal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XZopUD660rW032nfuPKO-16">
@@ -136,7 +136,7 @@
         <mxCell id="XZopUD660rW032nfuPKO-76" value="变更" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="160" y="1020" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XZopUD660rW032nfuPKO-77" value="变更" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="XZopUD660rW032nfuPKO-77" value="配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="1020" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
