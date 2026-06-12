@@ -406,7 +406,7 @@
             <mxPoint x="480" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NZLUfMOFMiSrBQqNMILc-7" value="1. imgsensor_stop_streaming&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=12;" vertex="1" connectable="0" parent="NZLUfMOFMiSrBQqNMILc-6">
+        <mxCell id="NZLUfMOFMiSrBQqNMILc-7" value="1. get_switch_gpio / get_switch_gpio_value&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=12;" vertex="1" connectable="0" parent="NZLUfMOFMiSrBQqNMILc-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
