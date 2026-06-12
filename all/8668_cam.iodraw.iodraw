@@ -222,6 +222,9 @@
         <mxCell id="k2OslELTvEfbPUIlkjR_-13" value="Sensor driver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
           <mxGeometry x="1071" y="588" width="79.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="k2OslELTvEfbPUIlkjR_-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k2OslELTvEfbPUIlkjR_-17" target="k2OslELTvEfbPUIlkjR_-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-17" value="Camera Application" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="400" width="240" height="40" as="geometry" />
         </mxCell>
