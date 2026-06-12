@@ -162,8 +162,8 @@
         <mxCell id="k2OslELTvEfbPUIlkjR_-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;container=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="400" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="k2OslELTvEfbPUIlkjR_-39" value="Midware" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="450" width="80" height="40" as="geometry" />
+        <mxCell id="k2OslELTvEfbPUIlkjR_-39" value="User apace" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="800" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-40" value="Camera API V2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="430" width="79.5" height="30" as="geometry" />
