@@ -248,7 +248,7 @@
             <mxPoint x="40" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnbH1Cp4MxJEHf8-x9ZD-2" value="Camera Driver" style="text;" vertex="1" parent="1">
+        <mxCell id="xnbH1Cp4MxJEHf8-x9ZD-2" value="Camera Driver" style="text;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="827.25" y="740" width="84.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xnbH1Cp4MxJEHf8-x9ZD-3" value="StreamOn" style="rounded=1;fillColor=#008a00;strokeColor=#005700;container=0;fontColor=#ffffff;" vertex="1" parent="1">
@@ -266,7 +266,7 @@
         <mxCell id="bjb0kDLZM2k5JF9g1lTO-2" value="" style="rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1080" y="920" width="160" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="bjb0kDLZM2k5JF9g1lTO-4" value="Display" style="text;align=center;" vertex="1" parent="1">
+        <mxCell id="bjb0kDLZM2k5JF9g1lTO-4" value="Display" style="text;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1117.75" y="920" width="84.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bjb0kDLZM2k5JF9g1lTO-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bjb0kDLZM2k5JF9g1lTO-5" target="bjb0kDLZM2k5JF9g1lTO-1">
