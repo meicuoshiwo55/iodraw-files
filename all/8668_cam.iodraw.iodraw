@@ -180,6 +180,9 @@
         <mxCell id="k2OslELTvEfbPUIlkjR_-48" value="复用" style="rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="510" y="1120" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bjb0kDLZM2k5JF9g1lTO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="k2OslELTvEfbPUIlkjR_-35" target="bjb0kDLZM2k5JF9g1lTO-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-35" value="Camera HW" style="rounded=0;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="696" y="1030" width="545" height="40" as="geometry" />
         </mxCell>
