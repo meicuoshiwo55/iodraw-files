@@ -181,22 +181,22 @@
           <mxGeometry x="720" y="1040" width="279.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-4" value="Switch control" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="1">
-          <mxGeometry x="831" y="766" width="129" height="44" as="geometry" />
+          <mxGeometry x="831" y="776" width="129" height="44" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-5" value="Kernal" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="728" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-8" value="Sensor device" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;container=0;" vertex="1" parent="1">
-          <mxGeometry x="731" y="901" width="299" height="30" as="geometry" />
+          <mxGeometry x="731" y="911" width="299" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-9" value="imgsensor driver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;container=0;" vertex="1" parent="1">
-          <mxGeometry x="731" y="861" width="299" height="30" as="geometry" />
+          <mxGeometry x="731" y="871" width="299" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-10" value="camsys driver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;container=0;" vertex="1" parent="1">
-          <mxGeometry x="730.5" y="811" width="79.5" height="30" as="geometry" />
+          <mxGeometry x="730.5" y="821" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-11" value="imgsys driver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;container=0;" vertex="1" parent="1">
-          <mxGeometry x="731" y="770" width="79.5" height="30" as="geometry" />
+          <mxGeometry x="731" y="780" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-13" value="Sensor driver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
           <mxGeometry x="1161" y="910" width="79.5" height="30" as="geometry" />
@@ -251,11 +251,11 @@
             <mxPoint x="40" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnbH1Cp4MxJEHf8-x9ZD-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="700" y="740" width="340" height="240" as="geometry" />
+        <mxCell id="xnbH1Cp4MxJEHf8-x9ZD-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="750" width="340" height="240" as="geometry" />
         </mxCell>
         <mxCell id="xnbH1Cp4MxJEHf8-x9ZD-2" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Camera Driver&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="825.5" y="742" width="84.5" height="30" as="geometry" />
+          <mxGeometry x="825.5" y="752" width="84.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
