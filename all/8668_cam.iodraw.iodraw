@@ -185,7 +185,7 @@
             <mxPoint x="870" y="1020" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k2OslELTvEfbPUIlkjR_-35" value="Camera HW" style="rounded=0;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+        <mxCell id="k2OslELTvEfbPUIlkjR_-35" value="Camera_HW" style="rounded=0;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="210" y="1030" width="1030" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-4" value="Switch control" style="rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="1">
