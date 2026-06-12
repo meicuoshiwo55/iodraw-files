@@ -243,6 +243,9 @@
         <mxCell id="k2OslELTvEfbPUIlkjR_-51" value="Camera Halserver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="560" width="240" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="k2OslELTvEfbPUIlkjR_-52" value="Camera HW" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="340" y="790" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
