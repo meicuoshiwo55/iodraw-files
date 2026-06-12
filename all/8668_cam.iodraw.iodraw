@@ -152,7 +152,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Qqx6RLYbKacGzuufPGWT" name="第 2 页">
-    <mxGraphModel dx="983" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1437" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -189,7 +189,7 @@
         <mxCell id="k2OslELTvEfbPUIlkjR_-4" value="Switch control" style="rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="1">
           <mxGeometry x="805" y="773.5" width="129" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="k2OslELTvEfbPUIlkjR_-5" value="Kernal" style="rounded=0;container=0;" vertex="1" parent="1">
+        <mxCell id="k2OslELTvEfbPUIlkjR_-5" value="Kernel" style="rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="728" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-10" value="camsys driver" style="rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;container=0;" vertex="1" parent="1">
