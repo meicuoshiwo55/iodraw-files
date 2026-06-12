@@ -196,7 +196,7 @@
           <mxGeometry x="40" y="960" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-35" value="Camera HW" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
-          <mxGeometry x="160" y="960" width="340" height="40" as="geometry" />
+          <mxGeometry x="520" y="960" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-3" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="159" y="579" width="320" height="180" as="geometry" />
