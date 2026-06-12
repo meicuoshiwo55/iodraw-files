@@ -180,10 +180,9 @@
         <mxCell id="k2OslELTvEfbPUIlkjR_-48" value="复用" style="rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="510" y="1120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bjb0kDLZM2k5JF9g1lTO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1">
+        <mxCell id="bjb0kDLZM2k5JF9g1lTO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;exitX=0.645;exitY=-0.074;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="k2OslELTvEfbPUIlkjR_-35" target="bjb0kDLZM2k5JF9g1lTO-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="871" y="1020" as="sourcePoint" />
-            <mxPoint x="876" y="959.9999999999998" as="targetPoint" />
+            <mxPoint x="870" y="1020" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-35" value="Camera HW" style="rounded=0;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
@@ -267,7 +266,7 @@
           <mxGeometry x="823" y="837" width="84.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bjb0kDLZM2k5JF9g1lTO-1" value="CSI Port" style="rounded=1;fillColor=#d5e8d4;strokeColor=#000000;container=0;" vertex="1" parent="1">
-          <mxGeometry x="820" y="930" width="110" height="30" as="geometry" />
+          <mxGeometry x="820" y="924" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bjb0kDLZM2k5JF9g1lTO-2" value="" style="rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1080" y="900" width="160" height="59" as="geometry" />
@@ -292,7 +291,7 @@
           <mxGeometry x="80" y="1030" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zZxlGUSJVc1RbhT_cN6a-2" value="cam device" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
-          <mxGeometry x="945" y="929" width="79.5" height="30" as="geometry" />
+          <mxGeometry x="945" y="923" width="79.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
