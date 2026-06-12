@@ -266,6 +266,9 @@
         <mxCell id="bjb0kDLZM2k5JF9g1lTO-1" value="&lt;article class=&quot;4ever-article&quot;&gt;CSI Port&lt;/article&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
           <mxGeometry x="805.25" y="960" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bjb0kDLZM2k5JF9g1lTO-2" value="Dispay" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="941" width="249.25" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
