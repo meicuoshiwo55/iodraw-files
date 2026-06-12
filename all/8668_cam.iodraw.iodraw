@@ -160,7 +160,7 @@
           <mxGeometry x="700" y="750" width="340" height="240" as="geometry" />
         </mxCell>
         <mxCell id="xnbH1Cp4MxJEHf8-x9ZD-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="895" width="290" height="70" as="geometry" />
+          <mxGeometry x="720" y="871" width="290" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-39" value="User apace" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="668" width="80" height="40" as="geometry" />
@@ -199,7 +199,7 @@
           <mxGeometry x="950" y="810.5" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-13" value="SensorInit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
-          <mxGeometry x="730.5" y="915" width="79.5" height="30" as="geometry" />
+          <mxGeometry x="730.5" y="891" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k2OslELTvEfbPUIlkjR_-17" target="k2OslELTvEfbPUIlkjR_-50">
           <mxGeometry relative="1" as="geometry" />
@@ -255,13 +255,16 @@
           <mxGeometry x="825.5" y="752" width="84.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xnbH1Cp4MxJEHf8-x9ZD-3" value="&lt;article class=&quot;4ever-article&quot;&gt;&lt;span data-type=&quot;text&quot;&gt;StreamOn&lt;/span&gt;&lt;/article&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
-          <mxGeometry x="826" y="915" width="79.5" height="30" as="geometry" />
+          <mxGeometry x="826" y="891" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xnbH1Cp4MxJEHf8-x9ZD-4" value="StreamOff" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
-          <mxGeometry x="920.5" y="915" width="79.5" height="30" as="geometry" />
+          <mxGeometry x="920.5" y="891" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xnbH1Cp4MxJEHf8-x9ZD-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Sensor Driver&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="828" y="885" width="84.5" height="30" as="geometry" />
+          <mxGeometry x="828" y="861" width="84.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bjb0kDLZM2k5JF9g1lTO-1" value="&lt;article class=&quot;4ever-article&quot;&gt;&lt;span data-type=&quot;text&quot;&gt;StreamOn&lt;/span&gt;&lt;/article&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
+          <mxGeometry x="830.5" y="960" width="79.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
