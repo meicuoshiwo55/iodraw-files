@@ -255,7 +255,7 @@
           <mxGeometry x="825.5" y="752" width="84.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xnbH1Cp4MxJEHf8-x9ZD-3" value="&lt;article class=&quot;4ever-article&quot;&gt;&lt;span data-type=&quot;text&quot;&gt;StreamOn&lt;/span&gt;&lt;/article&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
-          <mxGeometry x="819.87" y="920" width="79.5" height="30" as="geometry" />
+          <mxGeometry x="826" y="920" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xnbH1Cp4MxJEHf8-x9ZD-4" value="StreamOff" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
           <mxGeometry x="920.5" y="920" width="79.5" height="30" as="geometry" />
