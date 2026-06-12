@@ -263,7 +263,7 @@
         <mxCell id="xnbH1Cp4MxJEHf8-x9ZD-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Sensor Driver&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="828" y="861" width="84.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bjb0kDLZM2k5JF9g1lTO-1" value="&lt;article class=&quot;4ever-article&quot;&gt;&lt;span data-type=&quot;text&quot;&gt;StreamOn&lt;/span&gt;&lt;/article&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
+        <mxCell id="bjb0kDLZM2k5JF9g1lTO-1" value="&lt;article class=&quot;4ever-article&quot;&gt;CSI&amp;nbsp;&lt;/article&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
           <mxGeometry x="830.5" y="960" width="79.5" height="30" as="geometry" />
         </mxCell>
       </root>
