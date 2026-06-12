@@ -288,8 +288,8 @@
         <mxCell id="DgQlnl3r7Ap798XjtYZL-1" value="Hardware" style="rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="1030" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zZxlGUSJVc1RbhT_cN6a-2" value="device" style="rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;container=0;" vertex="1" parent="1">
-          <mxGeometry x="960" y="920" width="79.5" height="30" as="geometry" />
+        <mxCell id="zZxlGUSJVc1RbhT_cN6a-2" value="device" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="920" width="79.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
