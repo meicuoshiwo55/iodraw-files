@@ -156,9 +156,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="k2OslELTvEfbPUIlkjR_-36" value="Yocto Midware" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="400" width="320" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;container=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="400" width="240" height="160" as="geometry" />
         </mxCell>
@@ -199,34 +196,31 @@
           <mxGeometry x="520" y="960" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-3" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="159" y="579" width="320" height="180" as="geometry" />
+          <mxGeometry x="860" y="560" width="320" height="180" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="585" width="189" height="74" as="geometry" />
+          <mxGeometry x="971" y="566" width="189" height="74" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-5" value="Kernal" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="840" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="k2OslELTvEfbPUIlkjR_-6" value="Camera kernel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;container=0;" vertex="1" parent="1">
-          <mxGeometry x="519" y="579" width="240" height="180" as="geometry" />
-        </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-8" value="Sensor device" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;container=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="720" width="299" height="30" as="geometry" />
+          <mxGeometry x="871" y="701" width="299" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-9" value="imgsensor driver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;container=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="680" width="299" height="30" as="geometry" />
+          <mxGeometry x="871" y="661" width="299" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-10" value="camsys driver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;container=0;" vertex="1" parent="1">
-          <mxGeometry x="169.5" y="630" width="79.5" height="30" as="geometry" />
+          <mxGeometry x="870.5" y="611" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-11" value="imgsys driver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;container=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="589" width="79.5" height="30" as="geometry" />
+          <mxGeometry x="871" y="570" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-12" value="Switch control" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="607" width="79.5" height="30" as="geometry" />
+          <mxGeometry x="981" y="588" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-13" value="Sensor driver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="607" width="79.5" height="30" as="geometry" />
+          <mxGeometry x="1071" y="588" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-15" value="APP" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="80" height="40" as="geometry" />
