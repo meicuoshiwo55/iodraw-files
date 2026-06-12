@@ -323,7 +323,7 @@
             <mxPoint x="480" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cskueFj9jfsj6etV6PU0-7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cskueFj9jfsj6etV6PU0-6">
+        <mxCell id="cskueFj9jfsj6etV6PU0-7" value="1. imgsensor_probe" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cskueFj9jfsj6etV6PU0-6">
           <mxGeometry x="-0.075" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
