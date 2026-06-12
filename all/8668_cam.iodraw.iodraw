@@ -284,7 +284,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DgQlnl3r7Ap798XjtYZL-1" value="Hardware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1030" width="80" height="40" as="geometry" />
+          <mxGeometry x="80" y="1030" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
