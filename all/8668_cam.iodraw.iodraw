@@ -247,7 +247,7 @@
           <mxGeometry x="800" y="300" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-21" value="SOS Yocto" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="780" width="320" height="40" as="geometry" />
+          <mxGeometry x="420" y="250" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-22" value="UOS Android&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="780" width="240" height="40" as="geometry" />
