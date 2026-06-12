@@ -152,7 +152,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Qqx6RLYbKacGzuufPGWT" name="第 2 页">
-    <mxGraphModel dx="2076" dy="1264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1868" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,7 +180,7 @@
         <mxCell id="k2OslELTvEfbPUIlkjR_-48" value="复用" style="rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="510" y="1120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bjb0kDLZM2k5JF9g1lTO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.636;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="k2OslELTvEfbPUIlkjR_-35" target="bjb0kDLZM2k5JF9g1lTO-1">
+        <mxCell id="bjb0kDLZM2k5JF9g1lTO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.636;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="k2OslELTvEfbPUIlkjR_-35" target="bjb0kDLZM2k5JF9g1lTO-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-35" value="Camera HW" style="rounded=0;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
@@ -251,7 +251,7 @@
             <mxPoint x="40" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnbH1Cp4MxJEHf8-x9ZD-2" value="Camera Driver" style="text;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="xnbH1Cp4MxJEHf8-x9ZD-2" value="Camera Driver" style="text;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="827.25" y="740" width="84.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xnbH1Cp4MxJEHf8-x9ZD-3" value="StreamOn" style="rounded=1;fillColor=#008a00;strokeColor=#005700;container=0;fontColor=#ffffff;" vertex="1" parent="1">
@@ -269,7 +269,7 @@
         <mxCell id="bjb0kDLZM2k5JF9g1lTO-2" value="" style="rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1080" y="900" width="160" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="bjb0kDLZM2k5JF9g1lTO-4" value="Display" style="text;align=center;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="bjb0kDLZM2k5JF9g1lTO-4" value="Display" style="text;align=center;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1117.75" y="900" width="84.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bjb0kDLZM2k5JF9g1lTO-5" value="DSI " style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
@@ -280,12 +280,12 @@
             <mxPoint x="860" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bjb0kDLZM2k5JF9g1lTO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="bjb0kDLZM2k5JF9g1lTO-5">
+        <mxCell id="bjb0kDLZM2k5JF9g1lTO-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="bjb0kDLZM2k5JF9g1lTO-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1160" y="1027" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DgQlnl3r7Ap798XjtYZL-1" value="Hardware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DgQlnl3r7Ap798XjtYZL-1" value="Hardware" style="rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="1030" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
