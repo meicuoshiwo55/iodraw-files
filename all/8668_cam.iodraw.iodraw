@@ -187,7 +187,7 @@
           <mxGeometry x="831" y="766" width="189" height="74" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-5" value="Kernal" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="720" width="80" height="40" as="geometry" />
+          <mxGeometry x="50" y="728" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-8" value="Sensor device" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;container=0;" vertex="1" parent="1">
           <mxGeometry x="731" y="901" width="299" height="30" as="geometry" />
@@ -214,7 +214,7 @@
           <mxGeometry x="210" y="480" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-21" value="SOS Yocto" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="415" y="400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-22" value="UOS Android&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
           <mxGeometry x="500.25" y="400" width="100" height="40" as="geometry" />
