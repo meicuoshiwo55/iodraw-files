@@ -198,7 +198,7 @@
         <mxCell id="k2OslELTvEfbPUIlkjR_-11" value="imgsys driver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;container=0;" vertex="1" parent="1">
           <mxGeometry x="731" y="780" width="79.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k2OslELTvEfbPUIlkjR_-13" value="Sensor&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
+        <mxCell id="k2OslELTvEfbPUIlkjR_-13" value="Sensor&amp;nbsp;init" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
           <mxGeometry x="730.5" y="920" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k2OslELTvEfbPUIlkjR_-17" target="k2OslELTvEfbPUIlkjR_-50">
