@@ -255,12 +255,6 @@
         <mxCell id="k2OslELTvEfbPUIlkjR_-23" value="UOS TBox" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="780" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="k2OslELTvEfbPUIlkjR_-24" value="SOS LK" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="168" y="785" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="k2OslELTvEfbPUIlkjR_-25" value="Android LK" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="528" y="785" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-26" value="TBox LK" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="807" y="785" width="60" height="30" as="geometry" />
         </mxCell>
