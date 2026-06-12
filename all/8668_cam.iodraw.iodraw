@@ -180,9 +180,6 @@
         <mxCell id="k2OslELTvEfbPUIlkjR_-48" value="复用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="510" y="1120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="k2OslELTvEfbPUIlkjR_-34" value="Hardware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1040" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-35" value="Camera HW" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="696" y="1030" width="545" height="40" as="geometry" />
         </mxCell>
