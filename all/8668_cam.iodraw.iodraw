@@ -181,31 +181,31 @@
           <mxGeometry x="520" y="960" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-3" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="750" width="320" height="180" as="geometry" />
+          <mxGeometry x="720" y="760" width="320" height="180" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1091" y="756" width="189" height="74" as="geometry" />
+          <mxGeometry x="831" y="766" width="189" height="74" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-5" value="Kernal" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="720" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-8" value="Sensor device" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;container=0;" vertex="1" parent="1">
-          <mxGeometry x="991" y="891" width="299" height="30" as="geometry" />
+          <mxGeometry x="731" y="901" width="299" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-9" value="imgsensor driver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;container=0;" vertex="1" parent="1">
-          <mxGeometry x="991" y="851" width="299" height="30" as="geometry" />
+          <mxGeometry x="731" y="861" width="299" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-10" value="camsys driver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;container=0;" vertex="1" parent="1">
-          <mxGeometry x="990.5" y="801" width="79.5" height="30" as="geometry" />
+          <mxGeometry x="730.5" y="811" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-11" value="imgsys driver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;container=0;" vertex="1" parent="1">
-          <mxGeometry x="991" y="760" width="79.5" height="30" as="geometry" />
+          <mxGeometry x="731" y="770" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-12" value="Switch control" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1101" y="778" width="79.5" height="30" as="geometry" />
+          <mxGeometry x="841" y="788" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-13" value="Sensor driver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1191" y="778" width="79.5" height="30" as="geometry" />
+          <mxGeometry x="931" y="788" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k2OslELTvEfbPUIlkjR_-17" target="k2OslELTvEfbPUIlkjR_-50">
           <mxGeometry relative="1" as="geometry" />
