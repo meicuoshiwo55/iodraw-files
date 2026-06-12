@@ -202,7 +202,7 @@
           <mxGeometry x="1161" y="768" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-13" value="Sensor driver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
-          <mxGeometry x="931" y="788" width="79.5" height="30" as="geometry" />
+          <mxGeometry x="1161" y="910" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k2OslELTvEfbPUIlkjR_-17" target="k2OslELTvEfbPUIlkjR_-50">
           <mxGeometry relative="1" as="geometry" />
@@ -225,7 +225,7 @@
         <mxCell id="k2OslELTvEfbPUIlkjR_-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k2OslELTvEfbPUIlkjR_-50" target="k2OslELTvEfbPUIlkjR_-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k2OslELTvEfbPUIlkjR_-50" value="Camera Framework" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
+        <mxCell id="k2OslELTvEfbPUIlkjR_-50" value="Camera Framework" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;container=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="210" y="560" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-51" value="Camera Halserver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
