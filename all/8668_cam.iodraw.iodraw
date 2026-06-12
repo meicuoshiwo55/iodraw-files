@@ -368,7 +368,7 @@
             <mxPoint x="480" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Aqf9MHvEP5_ScqEsfJWo-7" value="1. Imgsensor_start_streaming&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=12;" vertex="1" connectable="0" parent="Aqf9MHvEP5_ScqEsfJWo-6">
+        <mxCell id="Aqf9MHvEP5_ScqEsfJWo-7" value="1. imgsensor_start_streaming&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=12;" vertex="1" connectable="0" parent="Aqf9MHvEP5_ScqEsfJWo-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
