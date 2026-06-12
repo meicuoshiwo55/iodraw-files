@@ -162,9 +162,6 @@
         <mxCell id="k2OslELTvEfbPUIlkjR_-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;container=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="400" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="k2OslELTvEfbPUIlkjR_-38" value="TBox Midware" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="400" width="200" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-39" value="Midware" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="450" width="80" height="40" as="geometry" />
         </mxCell>
@@ -213,9 +210,6 @@
         <mxCell id="k2OslELTvEfbPUIlkjR_-6" value="Camera kernel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;container=0;" vertex="1" parent="1">
           <mxGeometry x="519" y="579" width="240" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="k2OslELTvEfbPUIlkjR_-7" value="TBox kernel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=0;" vertex="1" parent="1">
-          <mxGeometry x="799" y="579" width="200" height="180" as="geometry" />
-        </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-8" value="Sensor device" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;container=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="720" width="299" height="30" as="geometry" />
         </mxCell>
@@ -243,20 +237,11 @@
         <mxCell id="k2OslELTvEfbPUIlkjR_-17" value="Camera Application" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="300" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k2OslELTvEfbPUIlkjR_-18" value="Tbox Application" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="300" width="200" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-21" value="SOS Yocto" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="250" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-22" value="UOS Android&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="780" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="k2OslELTvEfbPUIlkjR_-23" value="UOS TBox" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="780" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="k2OslELTvEfbPUIlkjR_-26" value="TBox LK" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="807" y="785" width="60" height="30" as="geometry" />
+          <mxGeometry x="520" y="780" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k2OslELTvEfbPUIlkjR_-49" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
