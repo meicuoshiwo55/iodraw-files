@@ -409,7 +409,7 @@
           <mxGeometry x="1117.75" y="901" width="160" height="59" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-36" value="Display Driver" style="text;align=center;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1155.5" y="901" width="84.5" height="30" as="geometry" />
+          <mxGeometry x="1156" y="901" width="84.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-37" target="Mb3QT4w9kJ0dbYvy9iG4-51">
           <mxGeometry relative="1" as="geometry">
@@ -470,7 +470,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-54" value="DSI " style="rounded=1;fillColor=#d5e8d4;strokeColor=#000000;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1217.63" y="930" width="50" height="30" as="geometry" />
+          <mxGeometry x="1216" y="929" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-52" target="Mb3QT4w9kJ0dbYvy9iG4-43">
           <mxGeometry relative="1" as="geometry" />
