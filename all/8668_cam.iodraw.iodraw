@@ -301,7 +301,7 @@
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-1" value="" style="rounded=0;" vertex="1" parent="1">
           <mxGeometry x="695" y="740" width="365" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-2" value="" style="rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="1">
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-2" value="" style="rounded=0;fillColor=#60a917;strokeColor=#2D7600;container=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="715" y="841" width="290" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-3" value="User apace" style="rounded=0;container=0;" vertex="1" parent="1">
@@ -398,10 +398,10 @@
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-30" value="Camera Driver" style="text;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="827.25" y="740" width="84.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-31" value="StreamOn" style="rounded=1;fillColor=#008a00;strokeColor=#005700;container=0;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-31" value="StreamOn" style="rounded=1;fillColor=#60a917;strokeColor=#2D7600;container=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="821" y="871" width="79.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-32" value="StreamOff" style="rounded=1;fillColor=#008a00;strokeColor=#005700;container=0;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-32" value="StreamOff" style="rounded=1;fillColor=#60a917;strokeColor=#2D7600;container=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="915.5" y="871" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-33" value="Sensor Driver" style="text;" vertex="1" parent="1">
