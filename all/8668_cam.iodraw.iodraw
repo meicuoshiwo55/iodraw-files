@@ -308,7 +308,7 @@
           <mxGeometry x="220" y="1020" width="1060" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-65" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#bcfbbc;gradientDirection=south;" vertex="1" parent="1">
-          <mxGeometry x="707.25" y="919" width="562.75" height="190" as="geometry" />
+          <mxGeometry x="707.25" y="907" width="562.75" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-2" value="" style="rounded=0;fillColor=#60a917;strokeColor=#2D7600;container=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="715" y="824" width="290" height="70" as="geometry" />
@@ -406,7 +406,7 @@
           <mxGeometry x="823" y="820" width="84.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-34" value="CSI Port" style="rounded=1;fillColor=#d5e8d4;strokeColor=#000000;container=0;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="802" y="950" width="50" height="30" as="geometry" />
+          <mxGeometry x="802" y="938" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-36" value="Display Driver" style="text;align=center;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1159" y="890" width="84.5" height="30" as="geometry" />
@@ -414,12 +414,12 @@
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-37" target="Mb3QT4w9kJ0dbYvy9iG4-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1163" y="1054" />
+              <mxPoint x="1163" y="1042" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-37" value="DSI " style="rounded=1;fillColor=#d5e8d4;strokeColor=#000000;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1138.38" y="950" width="50" height="30" as="geometry" />
+          <mxGeometry x="1138.38" y="938" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-4">
           <mxGeometry relative="1" as="geometry">
@@ -430,16 +430,16 @@
           <mxGeometry x="80" y="1030" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-41" value="CSI Port" style="rounded=1;fillColor=#d5e8d4;strokeColor=#000000;container=0;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="715" y="950" width="50" height="30" as="geometry" />
+          <mxGeometry x="715" y="938" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-42" value="CSI Port" style="rounded=1;fillColor=#d5e8d4;strokeColor=#000000;container=0;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="888" y="950" width="50" height="30" as="geometry" />
+          <mxGeometry x="888" y="938" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-43" value="CSI Port" style="rounded=1;fillColor=#d5e8d4;strokeColor=#000000;container=0;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="974.5" y="951" width="50" height="30" as="geometry" />
+          <mxGeometry x="974.5" y="939" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-49" value="" style="group;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="814" y="1049" width="90" height="40" as="geometry" />
+          <mxGeometry x="814" y="1037" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-46" value="lt9211" style="rounded=0;fillColor=#d5e8d4;strokeColor=#000000;container=0;" vertex="1" parent="Mb3QT4w9kJ0dbYvy9iG4-49">
           <mxGeometry x="0.32879442045836016" width="89.67120557954165" height="40" as="geometry" />
@@ -451,7 +451,7 @@
           <mxGeometry y="28" width="27.897708402524064" height="12" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-50" value="" style="group;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1033" y="1029" width="90.33" height="40" as="geometry" />
+          <mxGeometry x="1033" y="1017" width="90.33" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-51" value="lt9211" style="rounded=0;fillColor=#d5e8d4;strokeColor=#000000;container=0;" vertex="1" parent="Mb3QT4w9kJ0dbYvy9iG4-50">
           <mxGeometry x="0.33000000000004076" width="89.99999999999996" height="40" as="geometry" />
@@ -464,32 +464,32 @@
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-54">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="860" y="1089" as="targetPoint" />
+            <mxPoint x="860" y="1077" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1240" y="1099" />
-              <mxPoint x="860" y="1099" />
+              <mxPoint x="1240" y="1087" />
+              <mxPoint x="860" y="1087" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-54" value="DSI " style="rounded=1;fillColor=#d5e8d4;strokeColor=#000000;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1216" y="950" width="50" height="30" as="geometry" />
+          <mxGeometry x="1216" y="938" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-52" target="Mb3QT4w9kJ0dbYvy9iG4-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.633;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-53">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="926.0450000000001" y="979.72" as="targetPoint" />
+            <mxPoint x="926.0450000000001" y="967.72" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="926" y="1063" />
+              <mxPoint x="926" y="1051" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Mb3QT4w9kJ0dbYvy9iG4-41">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="810" y="1083" as="sourcePoint" />
+            <mxPoint x="810" y="1071" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="740" y="1083" />
+              <mxPoint x="740" y="1071" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -500,13 +500,13 @@
           <mxGeometry x="230" y="1030" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-66" value="DSI-CSI" style="text;align=center;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1038.83" y="919" width="84.5" height="30" as="geometry" />
+          <mxGeometry x="1038.83" y="907" width="84.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-67" value="Switch control" style="rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1033" y="999" width="90" height="30" as="geometry" />
+          <mxGeometry x="1033" y="987" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-68" value="Switch control" style="rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="1">
-          <mxGeometry x="814" y="1019" width="90" height="30" as="geometry" />
+          <mxGeometry x="814" y="1007" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
