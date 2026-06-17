@@ -293,6 +293,148 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="BBt5_1t92QQAGaxknmCa" name="第 7 页">
+    <mxGraphModel dx="873" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-1" value="" style="rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="695" y="740" width="365" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-2" value="" style="rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="1">
+          <mxGeometry x="715" y="841" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-3" value="User apace" style="rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="668" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-4" value="Camera Hal  Service" style="rounded=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;container=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="560" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-5" value="变更" style="rounded=1;fillColor=#80e619;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-6" value="配置" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-7" value="新研" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-8" value="复用" style="rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;exitX=0.639;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-10" target="Mb3QT4w9kJ0dbYvy9iG4-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="868" y="1020" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-10" value="Camera_HW" style="rounded=0;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1030" width="1030" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-11" value="Switch control" style="rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="1">
+          <mxGeometry x="805" y="773.5" width="129" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-12" value="Kernel" style="rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="730" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-13" value="camsys driver" style="rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;container=0;" vertex="1" parent="1">
+          <mxGeometry x="715" y="780.5" width="79.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-14" value="imgsys driver" style="rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;container=0;" vertex="1" parent="1">
+          <mxGeometry x="945" y="780.5" width="79.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-15" value="SensorInit" style="rounded=1;fillColor=#008a00;strokeColor=#005700;container=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="725.5" y="871" width="79.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-17" target="Mb3QT4w9kJ0dbYvy9iG4-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-17" value="Camera Application" style="rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-18" value="SOS Yocto" style="rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-19" value="UOS Android " style="rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="400" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-20" value="" style="endArrow=none;dashed=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="1040" as="sourcePoint" />
+            <mxPoint x="500" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-22" target="Mb3QT4w9kJ0dbYvy9iG4-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-22" value="Camera Framework" style="rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;container=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="210" y="560" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-23" value="Camera Halserver" style="rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;container=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="210" y="640" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-25" target="Mb3QT4w9kJ0dbYvy9iG4-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-25" value="VSOCK" style="rounded=0;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="340" y="790" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-27" target="Mb3QT4w9kJ0dbYvy9iG4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-27" value="VSOCK" style="rounded=0;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="560" y="790" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-23" target="Mb3QT4w9kJ0dbYvy9iG4-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-29" value="" style="endArrow=none;dashed=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1280" y="720" as="sourcePoint" />
+            <mxPoint x="40" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-30" value="Camera Driver" style="text;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="827.25" y="740" width="84.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-31" value="StreamOn" style="rounded=1;fillColor=#008a00;strokeColor=#005700;container=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="821" y="871" width="79.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-32" value="StreamOff" style="rounded=1;fillColor=#008a00;strokeColor=#005700;container=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="915.5" y="871" width="79.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-33" value="Sensor Driver" style="text;" vertex="1" parent="1">
+          <mxGeometry x="823" y="837" width="84.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-34" value="CSI Port" style="rounded=1;fillColor=#d5e8d4;strokeColor=#000000;container=0;" vertex="1" parent="1">
+          <mxGeometry x="813" y="929" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-35" value="" style="rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="900" width="160" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-36" value="Display Driver" style="text;align=center;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1117.75" y="900" width="84.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-37" value="DSI " style="rounded=1;fillColor=#d5e8d4;strokeColor=#000000;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="929" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="1027" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-40" value="Hardware" style="rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1030" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="N-DZmmNXrNfzyLNBau_R" name="第 3 页">
     <mxGraphModel dx="873" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -453,14 +595,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="BBt5_1t92QQAGaxknmCa" name="第 7 页">
-    <mxGraphModel dx="873" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
