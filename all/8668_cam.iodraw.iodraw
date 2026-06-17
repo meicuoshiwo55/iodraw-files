@@ -442,7 +442,7 @@
           <mxGeometry x="1033" y="929" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-44" value="CSI Port" style="rounded=1;fillColor=#d5e8d4;strokeColor=#000000;container=0;" vertex="1" parent="1">
-          <mxGeometry x="990" y="990" width="90" height="30" as="geometry" />
+          <mxGeometry x="990" y="1035" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-45" value="CSI Port" style="rounded=1;fillColor=#d5e8d4;strokeColor=#000000;container=0;" vertex="1" parent="1">
           <mxGeometry x="1167" y="1139" width="90" height="30" as="geometry" />
