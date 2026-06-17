@@ -294,7 +294,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BBt5_1t92QQAGaxknmCa" name="第 7 页">
-    <mxGraphModel dx="1343" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1587" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -499,6 +499,9 @@
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-63" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Camera_HW&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="625.5" y="1210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-64" value="UOS Android " style="rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1030" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
