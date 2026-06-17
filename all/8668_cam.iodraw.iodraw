@@ -294,7 +294,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BBt5_1t92QQAGaxknmCa" name="第 7 页">
-    <mxGraphModel dx="728" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="873" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -321,11 +321,6 @@
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-8" value="复用" style="rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="510" y="1120" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;exitX=0.639;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-10" target="Mb3QT4w9kJ0dbYvy9iG4-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="868" y="1020" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-10" value="Camera_HW" style="rounded=0;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="210" y="1030" width="1030" height="80" as="geometry" />
