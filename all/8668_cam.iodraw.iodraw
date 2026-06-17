@@ -469,6 +469,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1240" y="1090" />
+              <mxPoint x="860" y="1090" />
+              <mxPoint x="860" y="1070" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -485,12 +487,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.099;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Mb3QT4w9kJ0dbYvy9iG4-1">
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Mb3QT4w9kJ0dbYvy9iG4-41">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="810" y="1084" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="730" y="1084" />
-              <mxPoint x="730" y="1040" />
+              <mxPoint x="740" y="1084" />
             </Array>
           </mxGeometry>
         </mxCell>
