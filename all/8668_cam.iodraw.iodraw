@@ -294,7 +294,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BBt5_1t92QQAGaxknmCa" name="第 7 页">
-    <mxGraphModel dx="1091" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="437" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -492,13 +492,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="810" y="1084" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="730" y="1104" />
+              <mxPoint x="730" y="1084" />
               <mxPoint x="730" y="1040" />
-              <mxPoint x="731" y="1040" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-47" target="Mb3QT4w9kJ0dbYvy9iG4-34">
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-47" target="Mb3QT4w9kJ0dbYvy9iG4-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-64" value="Camera_HW" style="rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
