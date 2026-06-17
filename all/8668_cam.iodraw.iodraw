@@ -441,9 +441,6 @@
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-43" value="CSI Port" style="rounded=1;fillColor=#d5e8d4;strokeColor=#000000;container=0;" vertex="1" parent="1">
           <mxGeometry x="1033" y="929" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-44" value="CSI Port" style="rounded=0;fillColor=#d5e8d4;strokeColor=#000000;container=0;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1035" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-49" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="989.67" y="1110" width="90.33000000000004" height="70" as="geometry" />
         </mxCell>
@@ -454,6 +451,18 @@
           <mxGeometry width="26.67" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-48" value="B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Mb3QT4w9kJ0dbYvy9iG4-49">
+          <mxGeometry y="49" width="28" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-50" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="990" y="1020" width="90.33000000000004" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-51" value="lt9211" style="rounded=0;fillColor=#d5e8d4;strokeColor=#000000;container=0;" vertex="1" parent="Mb3QT4w9kJ0dbYvy9iG4-50">
+          <mxGeometry x="0.3300000000000409" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-52" value="A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Mb3QT4w9kJ0dbYvy9iG4-50">
+          <mxGeometry width="26.67" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-53" value="B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Mb3QT4w9kJ0dbYvy9iG4-50">
           <mxGeometry y="49" width="28" height="21" as="geometry" />
         </mxCell>
       </root>
