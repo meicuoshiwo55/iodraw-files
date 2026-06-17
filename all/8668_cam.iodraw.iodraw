@@ -299,7 +299,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-35" value="" style="rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="901" width="147.75" height="59" as="geometry" />
+          <mxGeometry x="1130" y="890" width="147.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-1" value="" style="rounded=0;" vertex="1" parent="1">
           <mxGeometry x="695" y="740" width="365" height="220" as="geometry" />
@@ -412,7 +412,7 @@
           <mxGeometry x="802" y="929" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-36" value="Display Driver" style="text;align=center;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1156" y="901" width="84.5" height="30" as="geometry" />
+          <mxGeometry x="1156" y="894" width="84.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-37" target="Mb3QT4w9kJ0dbYvy9iG4-51">
           <mxGeometry relative="1" as="geometry">
