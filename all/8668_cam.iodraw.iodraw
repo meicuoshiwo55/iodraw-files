@@ -448,10 +448,10 @@
           <mxGeometry x="990" y="1078" width="90" height="102" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-47" value="A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1090" width="40" height="30" as="geometry" />
+          <mxGeometry x="990" y="1090" width="26.67" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-48" value="B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1139" width="40" height="30" as="geometry" />
+          <mxGeometry x="990" y="1139" width="28" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
