@@ -509,6 +509,9 @@
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-67" value="Switch control" style="rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="1">
           <mxGeometry x="1033" y="1000" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-68" value="Switch control" style="rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="1">
+          <mxGeometry x="813" y="1040" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
