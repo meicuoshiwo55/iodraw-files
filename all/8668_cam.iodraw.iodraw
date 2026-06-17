@@ -323,7 +323,7 @@
           <mxGeometry x="510" y="1120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-10" value="Camera_HW" style="rounded=0;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1030" width="1030" height="80" as="geometry" />
+          <mxGeometry x="220" y="1030" width="1030" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-11" value="Switch control" style="rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="1">
           <mxGeometry x="805" y="773.5" width="129" height="44" as="geometry" />
@@ -465,8 +465,7 @@
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-54" target="Mb3QT4w9kJ0dbYvy9iG4-46">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1240" y="1145" />
-              <mxPoint x="910" y="1145" />
+              <mxPoint x="1240" y="1090" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -487,6 +486,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.099;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-48" target="Mb3QT4w9kJ0dbYvy9iG4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-47" target="Mb3QT4w9kJ0dbYvy9iG4-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
