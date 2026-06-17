@@ -294,7 +294,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BBt5_1t92QQAGaxknmCa" name="第 7 页">
-    <mxGraphModel dx="1027" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="873" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -406,7 +406,7 @@
           <mxGeometry x="813" y="929" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-35" value="" style="rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="900" width="160" height="59" as="geometry" />
+          <mxGeometry x="1123" y="901" width="160" height="59" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-36" value="Display Driver" style="text;align=center;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1117.75" y="900" width="84.5" height="30" as="geometry" />
