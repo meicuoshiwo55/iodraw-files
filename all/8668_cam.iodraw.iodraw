@@ -507,7 +507,7 @@
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-68" value="Switch control" style="rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="1">
           <mxGeometry x="814" y="1007" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-1" value="" style="rounded=0;" vertex="1" parent="1">
+        <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-1" value="" style="rounded=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="690" y="740" width="370" height="230" as="geometry" />
         </mxCell>
       </root>
