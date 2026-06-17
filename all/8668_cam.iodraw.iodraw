@@ -507,7 +507,7 @@
           <mxGeometry x="1038.83" y="920" width="84.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-67" value="Switch control" style="rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1151" y="817.5" width="129" height="44" as="geometry" />
+          <mxGeometry x="1033" y="986" width="87" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
