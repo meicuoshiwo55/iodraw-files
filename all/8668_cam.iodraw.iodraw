@@ -419,7 +419,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-37" value="DSI " style="rounded=1;fillColor=#d5e8d4;strokeColor=#000000;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1095" y="929" width="90" height="30" as="geometry" />
+          <mxGeometry x="1123" y="929" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-4">
           <mxGeometry relative="1" as="geometry">
