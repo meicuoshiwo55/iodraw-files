@@ -406,7 +406,7 @@
           <mxGeometry x="813" y="929" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-35" value="" style="rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1123" y="901" width="160" height="59" as="geometry" />
+          <mxGeometry x="1117.75" y="901" width="160" height="59" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-36" value="Display Driver" style="text;align=center;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1117.75" y="900" width="84.5" height="30" as="geometry" />
