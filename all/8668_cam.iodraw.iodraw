@@ -538,7 +538,7 @@
         </mxCell>
         <mxCell id="cskueFj9jfsj6etV6PU0-7" value="imgsensor_probe&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=12;" vertex="1" connectable="0" parent="cskueFj9jfsj6etV6PU0-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-30" as="offset" />
+            <mxPoint x="-40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FBTPgjErHzq3GBwN-WiA-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
