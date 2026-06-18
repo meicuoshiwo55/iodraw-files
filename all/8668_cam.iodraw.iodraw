@@ -644,7 +644,7 @@
         <mxCell id="ns1wIZrzuGQeGbFrrPX6-3" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;font color=&quot;#a22889&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: pre;&quot;&gt;Switch&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="440" y="200" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ns1wIZrzuGQeGbFrrPX6-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ns1wIZrzuGQeGbFrrPX6-4" value="&lt;article class=&quot;4ever-article&quot;&gt;&lt;br/&gt;&lt;span data-type=&quot;text&quot;&gt;imgsensor_mipi_switch&lt;/span&gt;&lt;/article&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="320" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ns1wIZrzuGQeGbFrrPX6-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="ns1wIZrzuGQeGbFrrPX6-2">
