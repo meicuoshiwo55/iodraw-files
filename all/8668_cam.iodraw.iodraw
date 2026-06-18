@@ -691,7 +691,7 @@
           <mxGeometry x="700" y="910" width="570" height="187" as="geometry" />
         </mxCell>
         <mxCell id="MP_oCcKq8wlbsovF6PxY-4" value="" style="rounded=0;fillColor=#60a917;strokeColor=#2D7600;container=0;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="760" y="824" width="210" height="70" as="geometry" />
+          <mxGeometry x="760" y="824" width="210" height="56" as="geometry" />
         </mxCell>
         <mxCell id="MP_oCcKq8wlbsovF6PxY-5" value="User apace" style="rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="668" width="80" height="40" as="geometry" />
@@ -774,7 +774,7 @@
           <mxGeometry x="827.25" y="740" width="84.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MP_oCcKq8wlbsovF6PxY-32" value="Sensor Driver" style="text;" vertex="1" parent="1">
-          <mxGeometry x="832.75" y="846" width="84.5" height="30" as="geometry" />
+          <mxGeometry x="832.75" y="837" width="84.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MP_oCcKq8wlbsovF6PxY-33" value="CSI Port" style="rounded=1;fillColor=#d5e8d4;strokeColor=#000000;container=0;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="802" y="938" width="50" height="30" as="geometry" />
