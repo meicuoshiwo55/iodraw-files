@@ -659,7 +659,7 @@
             <mxPoint x="480" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ns1wIZrzuGQeGbFrrPX6-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;adaptor_hw_power_on&amp;nbsp;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=12;" vertex="1" connectable="0" parent="ns1wIZrzuGQeGbFrrPX6-6">
+        <mxCell id="ns1wIZrzuGQeGbFrrPX6-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;adaptor_hw_power_on&amp;nbsp;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=12;" vertex="1" connectable="0" parent="ns1wIZrzuGQeGbFrrPX6-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-25" as="offset" />
           </mxGeometry>
@@ -673,7 +673,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v7jTuNfuuY7H_fTSJUHJ-4" value="&lt;article style=&quot;font-size: 12px;&quot; class=&quot;4ever-article&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot; data-type=&quot;text&quot;&gt;满足 ALWAYS_ON_POWER&lt;/span&gt;&lt;/article&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="v7jTuNfuuY7H_fTSJUHJ-3">
+        <mxCell id="v7jTuNfuuY7H_fTSJUHJ-4" value="&lt;article style=&quot;font-size: 12px;&quot; class=&quot;4ever-article&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot; data-type=&quot;text&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;满足 ALWAYS_ON_POWER&lt;/font&gt;&lt;/span&gt;&lt;/article&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="v7jTuNfuuY7H_fTSJUHJ-3">
           <mxGeometry x="-0.4628" y="-1" relative="1" as="geometry">
             <mxPoint x="26" y="49" as="offset" />
           </mxGeometry>
