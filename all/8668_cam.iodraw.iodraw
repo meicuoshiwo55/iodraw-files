@@ -673,7 +673,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v7jTuNfuuY7H_fTSJUHJ-4" value="&lt;article class=&quot;4ever-article&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span data-type=&quot;text&quot; style=&quot;font-size: 12px;&quot;&gt;ALWAYS_ON_POWER&lt;/span&gt;&lt;/article&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="v7jTuNfuuY7H_fTSJUHJ-3">
+        <mxCell id="v7jTuNfuuY7H_fTSJUHJ-4" value="&lt;article class=&quot;4ever-article&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span data-type=&quot;text&quot; style=&quot;font-size: 12px;&quot;&gt;ALWAYS_ON_POWER&lt;/span&gt;&lt;/article&gt;" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="v7jTuNfuuY7H_fTSJUHJ-3">
           <mxGeometry x="-0.4628" y="-1" relative="1" as="geometry">
             <mxPoint x="26" y="29" as="offset" />
           </mxGeometry>
