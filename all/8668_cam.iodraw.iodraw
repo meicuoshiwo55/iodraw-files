@@ -685,7 +685,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="k6gvDCoiSj6BjQU5L0pf" name="第 8 页">
-    <mxGraphModel dx="1277" dy="997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1230" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -781,7 +781,7 @@
         <mxCell id="MP_oCcKq8wlbsovF6PxY-29" value="Camera Driver" style="text;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="822.75" y="750.5" width="84.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MP_oCcKq8wlbsovF6PxY-32" value="Sensor Driver" style="text;" vertex="1" parent="1">
+        <mxCell id="MP_oCcKq8wlbsovF6PxY-32" value="Imgsensor Driver" style="text;" vertex="1" parent="1">
           <mxGeometry x="832.75" y="837" width="84.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MP_oCcKq8wlbsovF6PxY-33" value="CSI Port" style="rounded=1;fillColor=#d5e8d4;strokeColor=#000000;container=0;flipH=0;" vertex="1" parent="1">
