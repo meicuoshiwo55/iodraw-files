@@ -774,7 +774,7 @@
           <mxGeometry x="827.25" y="740" width="84.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MP_oCcKq8wlbsovF6PxY-32" value="Sensor Driver" style="text;" vertex="1" parent="1">
-          <mxGeometry x="823" y="820" width="84.5" height="30" as="geometry" />
+          <mxGeometry x="832.75" y="846" width="84.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MP_oCcKq8wlbsovF6PxY-33" value="CSI Port" style="rounded=1;fillColor=#d5e8d4;strokeColor=#000000;container=0;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="802" y="938" width="50" height="30" as="geometry" />
@@ -869,7 +869,7 @@
         <mxCell id="MP_oCcKq8wlbsovF6PxY-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MP_oCcKq8wlbsovF6PxY-44" target="MP_oCcKq8wlbsovF6PxY-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MP_oCcKq8wlbsovF6PxY-56" value="Camera_HW" style="rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
+        <mxCell id="MP_oCcKq8wlbsovF6PxY-56" value="Camera_HW" style="rounded=0;fillColor=#fad9d5;strokeColor=#ae4132;container=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="1030" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MP_oCcKq8wlbsovF6PxY-57" value="DSI-CSI" style="text;align=center;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
