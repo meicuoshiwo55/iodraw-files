@@ -546,10 +546,10 @@
         </mxCell>
         <mxCell id="FBTPgjErHzq3GBwN-WiA-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="300" as="sourcePoint" />
-            <mxPoint x="520" y="350" as="targetPoint" />
+            <mxPoint x="480" y="290" as="sourcePoint" />
+            <mxPoint x="520" y="370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="590" y="310" />
+              <mxPoint x="590" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
