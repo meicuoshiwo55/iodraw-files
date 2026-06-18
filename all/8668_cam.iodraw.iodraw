@@ -679,9 +679,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v7jTuNfuuY7H_fTSJUHJ-4" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v7jTuNfuuY7H_fTSJUHJ-3">
+        <mxCell id="v7jTuNfuuY7H_fTSJUHJ-4" value="&lt;article class=&quot;4ever-article&quot;&gt;&lt;br/&gt;&lt;span data-type=&quot;text&quot;&gt;ALWAYS_ON_POWER&lt;/span&gt;&lt;/article&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v7jTuNfuuY7H_fTSJUHJ-3">
           <mxGeometry x="-0.4628" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="26" y="29" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
