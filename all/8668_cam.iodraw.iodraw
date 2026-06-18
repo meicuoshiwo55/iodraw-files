@@ -774,7 +774,7 @@
           <mxGeometry x="822.75" y="750.5" width="84.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MP_oCcKq8wlbsovF6PxY-32" value="Sensor Driver" style="text;" vertex="1" parent="1">
-          <mxGeometry x="832.75" y="823" width="84.5" height="30" as="geometry" />
+          <mxGeometry x="832.75" y="837" width="84.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MP_oCcKq8wlbsovF6PxY-33" value="CSI Port" style="rounded=1;fillColor=#d5e8d4;strokeColor=#000000;container=0;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="802" y="924" width="50" height="30" as="geometry" />
