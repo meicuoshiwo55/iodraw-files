@@ -576,7 +576,7 @@
         </mxCell>
         <mxCell id="yBTwd3dAqskc6cdAKJma-10" value="imgsensor_probe&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=12;" vertex="1" connectable="0" parent="yBTwd3dAqskc6cdAKJma-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-30" as="offset" />
+            <mxPoint x="-30" y="30" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
