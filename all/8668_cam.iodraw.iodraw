@@ -559,7 +559,7 @@
             <mxPoint x="699.2" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yBTwd3dAqskc6cdAKJma-10" value="open" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=12;" vertex="1" connectable="0" parent="yBTwd3dAqskc6cdAKJma-9">
+        <mxCell id="yBTwd3dAqskc6cdAKJma-10" value="open" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=14;" vertex="1" connectable="0" parent="yBTwd3dAqskc6cdAKJma-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-5" y="-10" as="offset" />
           </mxGeometry>
@@ -567,7 +567,7 @@
         <mxCell id="yBTwd3dAqskc6cdAKJma-11" value="lt9211_sensor_init芯片初始化" style="text;" vertex="1" parent="1">
           <mxGeometry x="720" y="440" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yBTwd3dAqskc6cdAKJma-19" value="V4L2_CID_MTK_SENSOR_INIT" style="text;fontFamily=Times New Roman;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="yBTwd3dAqskc6cdAKJma-19" value="V4L2_CID_MTK_SENSOR_INIT" style="text;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="490" y="350" width="180" height="20" as="geometry" />
         </mxCell>
       </root>
