@@ -338,7 +338,7 @@
           <mxGeometry x="890" y="780.5" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-15" value="SensorInit" style="rounded=1;fillColor=#60a917;strokeColor=#2D7600;container=0;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="725.5" y="854" width="79.5" height="30" as="geometry" />
+          <mxGeometry x="1090" y="610" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Mb3QT4w9kJ0dbYvy9iG4-17" target="Mb3QT4w9kJ0dbYvy9iG4-22">
           <mxGeometry relative="1" as="geometry" />
@@ -394,10 +394,10 @@
           <mxGeometry x="827.25" y="740" width="84.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-31" value="StreamOn" style="rounded=1;fillColor=#60a917;strokeColor=#2D7600;container=0;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="821" y="854" width="79.5" height="30" as="geometry" />
+          <mxGeometry x="1185.5" y="610" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-32" value="StreamOff" style="rounded=1;fillColor=#60a917;strokeColor=#2D7600;container=0;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="915.5" y="854" width="79.5" height="30" as="geometry" />
+          <mxGeometry x="1280" y="610" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mb3QT4w9kJ0dbYvy9iG4-33" value="Sensor Driver" style="text;" vertex="1" parent="1">
           <mxGeometry x="823" y="820" width="84.5" height="30" as="geometry" />
