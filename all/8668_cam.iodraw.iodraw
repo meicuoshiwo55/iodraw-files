@@ -699,7 +699,7 @@
           <mxGeometry x="700" y="896" width="570" height="187" as="geometry" />
         </mxCell>
         <mxCell id="MP_oCcKq8wlbsovF6PxY-4" value="" style="rounded=0;fillColor=#60a917;strokeColor=#2D7600;container=0;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="760" y="824" width="210" height="56" as="geometry" />
+          <mxGeometry x="770" y="824" width="200" height="56" as="geometry" />
         </mxCell>
         <mxCell id="MP_oCcKq8wlbsovF6PxY-5" value="User apace" style="rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="668" width="80" height="40" as="geometry" />
