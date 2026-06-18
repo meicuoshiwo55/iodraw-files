@@ -554,7 +554,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yBTwd3dAqskc6cdAKJma-1" value="&lt;article class=&quot;4ever-article&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span data-type=&quot;text&quot;&gt;&lt;span data-type=&quot;leaf&quot; style=&quot;color:&quot;&gt;adaptor_hw_init&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/article&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="490" width="120" height="50" as="geometry" />
+          <mxGeometry x="500" y="340" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
