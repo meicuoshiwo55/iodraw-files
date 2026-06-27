@@ -1053,8 +1053,8 @@
         <mxCell id="CtPTj2QwWXcD8GoVOcAX-42" value="线路2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="150" y="500" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CtPTj2QwWXcD8GoVOcAX-43" value="&lt;font&gt;P4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="420" y="500" width="40" height="20" as="geometry" />
+        <mxCell id="CtPTj2QwWXcD8GoVOcAX-43" value="事件：P2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="420" y="500" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
