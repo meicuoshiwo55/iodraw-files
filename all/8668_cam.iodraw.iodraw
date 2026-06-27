@@ -954,7 +954,7 @@
         <mxCell id="CtPTj2QwWXcD8GoVOcAX-9" value="P1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="414" y="365" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CtPTj2QwWXcD8GoVOcAX-10" value="P2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#009900;" vertex="1" parent="1">
+        <mxCell id="CtPTj2QwWXcD8GoVOcAX-10" value="P3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="444" y="365" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CtPTj2QwWXcD8GoVOcAX-11" value="P" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#009900;" vertex="1" parent="1">
@@ -969,7 +969,7 @@
         <mxCell id="CtPTj2QwWXcD8GoVOcAX-16" value="P" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="480" y="385" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CtPTj2QwWXcD8GoVOcAX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CtPTj2QwWXcD8GoVOcAX-17" target="CtPTj2QwWXcD8GoVOcAX-19">
+        <mxCell id="CtPTj2QwWXcD8GoVOcAX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#009900;" edge="1" parent="1" source="CtPTj2QwWXcD8GoVOcAX-17" target="CtPTj2QwWXcD8GoVOcAX-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="285" y="200" />
