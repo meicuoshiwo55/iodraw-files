@@ -1020,6 +1020,9 @@
         <mxCell id="CtPTj2QwWXcD8GoVOcAX-26" value="&lt;font&gt;P&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="210" y="400" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="CtPTj2QwWXcD8GoVOcAX-29" value="P1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="210" y="450" width="30" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
