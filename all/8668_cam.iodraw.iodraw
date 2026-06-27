@@ -969,10 +969,13 @@
         <mxCell id="CtPTj2QwWXcD8GoVOcAX-16" value="P" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="480" y="385" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="CtPTj2QwWXcD8GoVOcAX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CtPTj2QwWXcD8GoVOcAX-17" target="CtPTj2QwWXcD8GoVOcAX-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CtPTj2QwWXcD8GoVOcAX-17" value="P2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="270" y="240" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CtPTj2QwWXcD8GoVOcAX-19" value="P2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#009900;" vertex="1" parent="1">
+        <mxCell id="CtPTj2QwWXcD8GoVOcAX-19" value="P3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="430" y="160" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
