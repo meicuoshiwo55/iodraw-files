@@ -508,7 +508,7 @@
         <mxCell id="dT9cS4oKSuRXCOoKicfT-133" value="CSI1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2580" y="960" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dT9cS4oKSuRXCOoKicfT-134" value="MAX96712&amp;nbsp;&lt;span style=&quot;font-family: MonospacedNumber, LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Tahoma, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; white-space: pre; font-size: 13px; background-color: initial;&quot;&gt;U1101&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dT9cS4oKSuRXCOoKicfT-134" value="MAX96722&amp;nbsp;&lt;span style=&quot;font-family: MonospacedNumber, LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Tahoma, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; white-space: pre; font-size: 13px; background-color: initial;&quot;&gt;U1101&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1960" y="640" width="480" height="129" as="geometry" />
         </mxCell>
         <mxCell id="dT9cS4oKSuRXCOoKicfT-135" value="CSI-A" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -592,7 +592,7 @@
           <mxGeometry x="2700" y="960" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-1" value="&lt;table style=&quot;border-collapse: collapse;&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;255&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;31&quot;&gt;&lt;td style=&quot;background-color:#eef6c6;font-size:12pt;&quot;&gt;IIC Address = 0x52&lt;/td&gt;&lt;/tr&gt;&lt;tr height=&quot;31&quot;&gt;&lt;td style=&quot;background-color:#eef6c6;font-size:12pt;&quot;&gt;GMSL2, 3Gbps&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3040" y="800" width="290" height="90" as="geometry" />
+          <mxGeometry x="3040" y="800" width="270" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
