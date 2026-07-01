@@ -378,7 +378,7 @@
           <mxGeometry x="2100" y="1600" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-19" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;white-space: pre; font-size: 16px;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;div&gt;&lt;div data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;MAX20087ATPA/VY+ &lt;span style=&quot;background-color: initial;&quot;&gt;U1000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2550" y="320" width="215" height="129" as="geometry" />
+          <mxGeometry x="2626" y="320" width="215" height="129" as="geometry" />
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z8UjaluemrS1ZVkX3R_u-21" target="Z8UjaluemrS1ZVkX3R_u-67">
           <mxGeometry relative="1" as="geometry" />
@@ -401,13 +401,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-25" value="out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2703" y="419" width="60" height="30" as="geometry" />
+          <mxGeometry x="2779" y="419" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-26" value="VDD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2552" y="320" width="60" height="30" as="geometry" />
+          <mxGeometry x="2628" y="320" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-27" value="&lt;span class=&quot;fontstyle0&quot;&gt;EN/RST&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2552" y="419" width="60" height="30" as="geometry" />
+          <mxGeometry x="2628" y="419" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-63" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="3258" y="449" width="66.88999999999987" height="51" as="geometry" />
