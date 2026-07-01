@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="gyq_q42If8nwr-Xv_wv9">
-    <mxGraphModel dx="1823" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1458" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1026,13 +1026,6 @@
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-11" value="&lt;table style=&quot;border-collapse: collapse;&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;255&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;31&quot;&gt;&lt;td style=&quot;background-color:#d9f5d6;font-size:12pt;&quot;&gt;IIC Address = 0x52&lt;/td&gt;&lt;/tr&gt;&lt;tr height=&quot;31&quot;&gt;&lt;td style=&quot;background-color:#d9f5d6;font-size:12pt;&quot;&gt;GMSL1, HIM Enabled&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1530" y="830" width="290" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="Z8UjaluemrS1ZVkX3R_u-225" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Z8UjaluemrS1ZVkX3R_u-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1985.4999999999995" y="1630" as="sourcePoint" />
-            <mxPoint x="1977" y="1821" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-13" value="&lt;table style=&quot;border-collapse: collapse;&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;255&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;31&quot;&gt;&lt;td style=&quot;background-color:#fbbfbc;color:#1f2329;font-size:12pt;&quot;&gt;IIC ADDR : 0X90&lt;/td&gt;&lt;/tr&gt;&lt;tr height=&quot;31&quot;&gt;&lt;td style=&quot;background-color:#fbbfbc;color:#1f2329;font-size:12pt;&quot;&gt;COAX_GMSL2_6Gbps&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1862" y="1680" width="290" height="90" as="geometry" />
