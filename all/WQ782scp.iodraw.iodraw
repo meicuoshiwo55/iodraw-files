@@ -22,7 +22,7 @@
         <mxCell id="dT9cS4oKSuRXCOoKicfT-7" value="PDN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1945" y="1820" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dT9cS4oKSuRXCOoKicfT-9" value="CSI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dT9cS4oKSuRXCOoKicfT-9" value="CSI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2214" y="1820" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dT9cS4oKSuRXCOoKicfT-16" value="CSI5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -366,7 +366,7 @@
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-13" value="&lt;table style=&quot;border-collapse: collapse;&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;255&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;31&quot;&gt;&lt;td style=&quot;background-color:#fbbfbc;color:#1f2329;font-size:12pt;&quot;&gt;IIC ADDR : 0X90&lt;/td&gt;&lt;/tr&gt;&lt;tr height=&quot;31&quot;&gt;&lt;td style=&quot;background-color:#fbbfbc;color:#1f2329;font-size:12pt;&quot;&gt;COAX_GMSL2_6Gbps&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1894" y="1680" width="290" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Z8UjaluemrS1ZVkX3R_u-14" value="CSI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z8UjaluemrS1ZVkX3R_u-14" value="CSI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2100" y="1820" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="Z8UjaluemrS1ZVkX3R_u-14" parent="1">
