@@ -832,16 +832,16 @@
           <mxGeometry x="2206" y="1900" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-193" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;white-space: pre; font-size: 16px;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;div&gt;&lt;div data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;MAX20087ATPA/VY+ &lt;span style=&quot;background-color: initial;&quot;&gt;U1000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2779" y="1960" width="215" height="129" as="geometry" />
+          <mxGeometry x="2612.5" y="1960" width="215" height="129" as="geometry" />
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-194" value="out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2779" y="1960" width="60" height="30" as="geometry" />
+          <mxGeometry x="2612.5" y="1960" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-195" value="VDD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2934" y="2070" width="60" height="30" as="geometry" />
+          <mxGeometry x="2767.5" y="2070" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-196" value="&lt;span class=&quot;fontstyle0&quot;&gt;EN/RST&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2934" y="1960" width="60" height="30" as="geometry" />
+          <mxGeometry x="2767.5" y="1960" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-197" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;white-space: pre; font-size: 16px;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;div data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;br&gt;&lt;span class=&quot;fontstyle0&quot;&gt;MINIFAKRA&lt;/span&gt; &lt;br&gt;&lt;br&gt;&lt;span class=&quot;fontstyle0&quot;&gt;J3400&lt;/span&gt; &lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2376.05" y="1840" width="144" height="70" as="geometry" />
