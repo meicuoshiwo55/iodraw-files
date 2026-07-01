@@ -465,7 +465,7 @@
           <mxGeometry x="26.25" y="26.25" width="27.5" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-45" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="3390" y="330" width="120" height="100" as="geometry" />
+          <mxGeometry x="3390" y="340" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-46" value="" style="whiteSpace=wrap;html=1;aspect=fixed;container=0;" vertex="1" parent="1">
           <mxGeometry x="3390" y="350" width="80" height="80" as="geometry" />
@@ -488,7 +488,7 @@
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-50" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z8UjaluemrS1ZVkX3R_u-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3390" y="350" as="sourcePoint" />
-            <mxPoint x="3430" y="330" as="targetPoint" />
+            <mxPoint x="3410" y="340" as="targetPoint" />
             <Array as="points">
               <mxPoint x="3500" y="340" />
             </Array>
