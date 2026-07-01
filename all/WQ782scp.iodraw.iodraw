@@ -534,6 +534,12 @@
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-67" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;white-space: pre; font-size: 16px;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;div data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;br&gt;&lt;span class=&quot;fontstyle0&quot;&gt;MINIFAKRA&lt;/span&gt; &lt;br&gt;&lt;br&gt;&lt;span class=&quot;fontstyle0&quot;&gt;J3400&lt;/span&gt; &lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3063" y="430" width="144" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="Z8UjaluemrS1ZVkX3R_u-70" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2600" y="720" as="sourcePoint" />
+            <mxPoint x="2650" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
