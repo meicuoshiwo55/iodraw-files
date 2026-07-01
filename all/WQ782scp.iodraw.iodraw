@@ -834,6 +834,9 @@
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-193" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;white-space: pre; font-size: 16px;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;div&gt;&lt;div data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;MAX20087ATPA/VY+ &lt;span style=&quot;background-color: initial;&quot;&gt;U1000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2612.5" y="1960" width="215" height="129" as="geometry" />
         </mxCell>
+        <mxCell id="Z8UjaluemrS1ZVkX3R_u-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z8UjaluemrS1ZVkX3R_u-194" target="Z8UjaluemrS1ZVkX3R_u-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-194" value="out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2612.5" y="1960" width="60" height="30" as="geometry" />
         </mxCell>
@@ -997,6 +1000,9 @@
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-212" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="Z8UjaluemrS1ZVkX3R_u-213">
           <mxGeometry x="3.928157894736842" y="8.214285714285714" width="37.85315789473684" height="14.285714285714286" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8UjaluemrS1ZVkX3R_u-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.386;entryY=1.069;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z8UjaluemrS1ZVkX3R_u-191" target="Z8UjaluemrS1ZVkX3R_u-197">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
