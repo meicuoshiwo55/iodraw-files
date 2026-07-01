@@ -390,7 +390,7 @@
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-26" value="CSI-A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2780" y="160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z8UjaluemrS1ZVkX3R_u-27" value="CSI-A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z8UjaluemrS1ZVkX3R_u-27" value="&lt;span class=&quot;fontstyle0&quot;&gt;EN/RST&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2780" y="259" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
