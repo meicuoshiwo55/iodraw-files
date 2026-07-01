@@ -372,6 +372,9 @@
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-20" value="CSI-A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2644" y="219" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Z8UjaluemrS1ZVkX3R_u-21" value="VDD/VCC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2805" y="640" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
