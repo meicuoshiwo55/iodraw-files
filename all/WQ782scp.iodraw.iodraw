@@ -1028,7 +1028,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-11" value="&lt;table style=&quot;border-collapse: collapse;&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;255&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;31&quot;&gt;&lt;td style=&quot;background-color:#d9f5d6;font-size:12pt;&quot;&gt;IIC Address = 0x52&lt;/td&gt;&lt;/tr&gt;&lt;tr height=&quot;31&quot;&gt;&lt;td style=&quot;background-color:#d9f5d6;font-size:12pt;&quot;&gt;GMSL1, HIM Enabled&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="830" width="290" height="90" as="geometry" />
+          <mxGeometry x="1532" y="830" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-13" value="&lt;table style=&quot;border-collapse: collapse;&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;255&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;31&quot;&gt;&lt;td style=&quot;background-color:#fbbfbc;color:#1f2329;font-size:12pt;&quot;&gt;IIC ADDR : 0X90&lt;/td&gt;&lt;/tr&gt;&lt;tr height=&quot;31&quot;&gt;&lt;td style=&quot;background-color:#fbbfbc;color:#1f2329;font-size:12pt;&quot;&gt;COAX_GMSL2_6Gbps&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1862" y="1680" width="290" height="90" as="geometry" />
