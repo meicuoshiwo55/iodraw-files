@@ -559,7 +559,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-74" value="&lt;span class=&quot;fontstyle0&quot; style=&quot;font-size: 14px;&quot;&gt;VCC9V_CSI1_C&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="2920" y="480" width="120" height="20" as="geometry" />
+          <mxGeometry x="2920" y="467" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
