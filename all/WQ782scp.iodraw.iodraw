@@ -370,7 +370,7 @@
           <mxGeometry x="2645" y="280" width="380" height="129" as="geometry" />
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-20" value="CSI-A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2740" y="379" width="60" height="30" as="geometry" />
+          <mxGeometry x="2690" y="379" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-21" value="&lt;table class=&quot;NormalTable&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width=&quot;262&quot;&gt;&lt;span class=&quot;fontstyle0&quot;&gt;SIOBP&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3137" y="640" width="70" height="30" as="geometry" />
@@ -525,6 +525,9 @@
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-42" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;" vertex="1" parent="Z8UjaluemrS1ZVkX3R_u-65">
           <mxGeometry x="26.25" y="46.25" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8UjaluemrS1ZVkX3R_u-67" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;white-space: pre; font-size: 16px;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;div&gt;&lt;div data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;MAX20087ATPA/VY+ &lt;span style=&quot;background-color: initial;&quot;&gt;U1000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2770" y="455" width="380" height="129" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
