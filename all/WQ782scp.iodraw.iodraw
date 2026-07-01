@@ -612,7 +612,7 @@
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Z8UjaluemrS1ZVkX3R_u-87">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1989.1100000000006" y="230" as="sourcePoint" />
+            <mxPoint x="1989" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-87" value="VDD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
