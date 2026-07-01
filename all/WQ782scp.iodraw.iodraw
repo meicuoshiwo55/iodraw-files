@@ -128,10 +128,10 @@
             <mxPoint x="1050" y="1300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dT9cS4oKSuRXCOoKicfT-41" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.431;entryY=1.005;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="dT9cS4oKSuRXCOoKicfT-9" target="dT9cS4oKSuRXCOoKicfT-2" edge="1">
+        <mxCell id="dT9cS4oKSuRXCOoKicfT-41" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="dT9cS4oKSuRXCOoKicfT-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2251" y="1699" as="sourcePoint" />
-            <mxPoint x="2339.86" y="1544" as="targetPoint" />
+            <mxPoint x="2244" y="1542" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dT9cS4oKSuRXCOoKicfT-64" value="CF23 GPIO_17" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
