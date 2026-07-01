@@ -472,7 +472,7 @@
         <mxCell id="dT9cS4oKSuRXCOoKicfT-123" value="CSI-A" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2580" y="739" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dT9cS4oKSuRXCOoKicfT-124" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dT9cS4oKSuRXCOoKicfT-124" value="&lt;b style=&quot;font-size: 16px; white-space: pre; background-color: initial;&quot;&gt;eint181&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="3004" y="1075" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dT9cS4oKSuRXCOoKicfT-125" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="dT9cS4oKSuRXCOoKicfT-124" target="dT9cS4oKSuRXCOoKicfT-122" edge="1">
@@ -499,7 +499,7 @@
         <mxCell id="dT9cS4oKSuRXCOoKicfT-130" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;white-space: pre;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt; DH13 &lt;b style=&quot;background-color: initial;&quot;&gt;I2C2_SDA&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="2820" y="960" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dT9cS4oKSuRXCOoKicfT-131" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;white-space: pre;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;DF6 &lt;/span&gt;GPIO_47 &lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="dT9cS4oKSuRXCOoKicfT-131" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;white-space: pre;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;DF6 &lt;/span&gt;GPIO_47 &lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="2968" y="960" width="132" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dT9cS4oKSuRXCOoKicfT-132" value="CSI0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
