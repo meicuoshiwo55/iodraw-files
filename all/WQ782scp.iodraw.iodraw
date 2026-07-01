@@ -526,8 +526,8 @@
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-42" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;" vertex="1" parent="Z8UjaluemrS1ZVkX3R_u-65">
           <mxGeometry x="26.25" y="46.25" width="27.5" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="Z8UjaluemrS1ZVkX3R_u-67" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;white-space: pre; font-size: 16px;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;div&gt;&lt;div data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;MAX20087ATPA/VY+ &lt;span style=&quot;background-color: initial;&quot;&gt;U1000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2770" y="455" width="190" height="75" as="geometry" />
+        <mxCell id="Z8UjaluemrS1ZVkX3R_u-67" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;white-space: pre; font-size: 16px;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;div data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2945" y="480" width="190" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
