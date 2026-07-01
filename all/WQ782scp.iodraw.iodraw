@@ -995,13 +995,13 @@
           <mxGeometry x="2330" y="1950" width="215" height="129" as="geometry" />
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-194" value="out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2483" y="2049" width="60" height="30" as="geometry" />
+          <mxGeometry x="2465.55" y="1950" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-195" value="VDD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2330" y="2049" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-196" value="&lt;span class=&quot;fontstyle0&quot;&gt;EN/RST&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2462.11" y="1950" width="60" height="30" as="geometry" />
+          <mxGeometry x="2360" y="1950" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
