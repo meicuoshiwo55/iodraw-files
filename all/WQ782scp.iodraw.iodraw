@@ -387,13 +387,13 @@
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-24" value="&lt;table class=&quot;NormalTable&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width=&quot;262&quot;&gt;&lt;span class=&quot;fontstyle0&quot;&gt;VTERM&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2800" y="640" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z8UjaluemrS1ZVkX3R_u-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z8UjaluemrS1ZVkX3R_u-25">
+        <mxCell id="Z8UjaluemrS1ZVkX3R_u-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z8UjaluemrS1ZVkX3R_u-25" target="Z8UjaluemrS1ZVkX3R_u-67">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2940" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-25" value="out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2960" y="379" width="60" height="30" as="geometry" />
+          <mxGeometry x="2930" y="379" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-26" value="CSI-A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2815" y="280" width="60" height="30" as="geometry" />
