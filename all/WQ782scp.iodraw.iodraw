@@ -405,7 +405,7 @@
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-32" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="Z8UjaluemrS1ZVkX3R_u-39" source="Z8UjaluemrS1ZVkX3R_u-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-260" y="210" as="sourcePoint" />
-            <mxPoint x="40" as="targetPoint" />
+            <mxPoint x="69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="Z8UjaluemrS1ZVkX3R_u-39">
