@@ -367,7 +367,7 @@
           <mxGeometry x="2100" y="1600" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-19" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;white-space: pre; font-size: 16px;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;div&gt;&lt;div data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;MAX20087ATPA/VY+ &lt;span style=&quot;background-color: initial;&quot;&gt;U1000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2710" y="160" width="375" height="130" as="geometry" />
+          <mxGeometry x="2705" y="160" width="380" height="129" as="geometry" />
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-20" value="CSI-A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2705" y="259" width="60" height="30" as="geometry" />
@@ -383,6 +383,9 @@
         </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-24" value="&lt;table class=&quot;NormalTable&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width=&quot;262&quot;&gt;&lt;span class=&quot;fontstyle0&quot;&gt;VTERM&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2800" y="640" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8UjaluemrS1ZVkX3R_u-25" value="out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2925" y="259" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
