@@ -452,15 +452,8 @@
             <mxPoint x="41" y="78" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z8UjaluemrS1ZVkX3R_u-41" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" edge="1" parent="Z8UjaluemrS1ZVkX3R_u-39" target="Z8UjaluemrS1ZVkX3R_u-40">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3191" y="499" as="sourcePoint" />
-            <mxPoint x="3191" y="419" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Z8UjaluemrS1ZVkX3R_u-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Z8UjaluemrS1ZVkX3R_u-39">
-          <mxGeometry x="15" y="35" width="35" height="35" as="geometry" />
+          <mxGeometry x="22.5" y="42.5" width="35" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
